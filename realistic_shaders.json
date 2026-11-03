@@ -1,15 +1,15 @@
 ﻿{
     "enable_promo_mode":  false,
-    "mods":  {
+    "mods":  [
 
-             },
+             ],
     "force_update":  false,
     "version":  1,
     "appTitle":  "App",
     "rating_url":  "https://www.amazon.com/gp/mas/dl/android?p=com.example.veritymod.mcpe",
     "enable_rating_dialog":  false,
     "update_url":  "https://www.amazon.com/gp/mas/dl/android?p=com.example.veritymod.mcpe",
-    "update_message":  "A new version of App is available.",
+    "update_message":  "A new version of App is available. Please update from Amazon Appstore.",
     "categories":  [
                        {
                            "name":  "All Shaders",
@@ -25,8 +25,14 @@
                            "name":  "RTX Textures",
                            "id":  "rtx",
                            "badge":  "4K"
+                       },
+                       {
+                           "name":  "Shader Maps",
+                           "id":  "maps",
+                           "badge":  "BUILD"
                        }
                    ],
     "update_title":  "Update Available!",
-    "updateNotice":  "Updated Realistic Shaders \u0026 RTX Textures for MCPE 1.20 - 1.21"
+    "updateNotice":  "Updated Realistic Shaders for MCPE 1.20 \u0026 1.21 Tricky Trials"
 }
+
