@@ -1,38 +1,576 @@
 ﻿{
-    "enable_promo_mode":  false,
-    "mods":  [
-
-             ],
-    "force_update":  false,
     "version":  1,
     "appTitle":  "App",
-    "rating_url":  "https://www.amazon.com/gp/mas/dl/android?p=com.example.veritymod.mcpe",
+    "updateNotice":  "Updated Modern Furniture for MCPE 1.20 \u0026 1.21 Tricky Trials",
     "enable_rating_dialog":  false,
-    "update_url":  "https://www.amazon.com/gp/mas/dl/android?p=com.example.veritymod.mcpe",
+    "rating_url":  "https://www.amazon.com/gp/mas/dl/android?p=com.example.veritymod.mcpe",
+    "force_update":  false,
+    "update_title":  "Update Available!",
     "update_message":  "A new version of App is available. Please update from Amazon Appstore.",
+    "update_url":  "https://www.amazon.com/gp/mas/dl/android?p=com.example.veritymod.mcpe",
+    "enable_promo_mode":  false,
     "categories":  [
                        {
-                           "name":  "All Items",
                            "id":  "all",
+                           "name":  "All Items",
                            "badge":  "ALL"
                        },
                        {
-                           "name":  "Furniture Mods",
                            "id":  "furniture",
+                           "name":  "Furniture Mods",
                            "badge":  "HOT"
                        },
                        {
-                           "name":  "Home Decor",
                            "id":  "decor",
+                           "name":  "Home Decor",
                            "badge":  "NEW"
                        },
                        {
-                           "name":  "Mansion Maps",
                            "id":  "maps",
+                           "name":  "Mansion Maps",
                            "badge":  "LUXURY"
                        }
                    ],
-    "update_title":  "Update Available!",
-    "updateNotice":  "Updated Modern Furniture for MCPE 1.20 \u0026 1.21 Tricky Trials"
+    "mods":  [
+                 {
+                     "id":  "furniture_253261",
+                     "title":  "monoDeco Platinum The End | 1700 Blocks Furniture | MCBE 1.21.70+",
+                     "subtitle":  "Minecraft Bedrock Modern Furniture Addon",
+                     "category":  "furniture",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  3.9,
+                     "downloads":  "690K",
+                     "author":  "monorogu",
+                     "thumbnailUrl":  "https://api.mcpedl.com/storage/submissions/113443/183/mcpedlmdpttheend_1-520x245.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://api.mcpedl.com/storage/submissions/113443/183/mcpedlmdpttheend_1-520x245.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/monodeco-plus.mcaddon",
+                     "isFeatured":  true,
+                     "isTrending":  false,
+                     "isNew":  false,
+                     "description":  "Introducing monoDeco Platinum Edition, offering a wide range of furniture, from kitchen appliances, home decor, bathroom essentials—whatever you need... Everything on here.you c...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Modern Furniture Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://api.mcpedl.com/storage/submissions/113443/183/mcpedlmdpttheend_1-520x245.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "furniture_240476",
+                     "title":  "mikkeeeyyyy\u0027s Simple Modern Furniture [v5]",
+                     "subtitle":  "Minecraft Bedrock Modern Furniture Addon",
+                     "category":  "furniture",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  3.8,
+                     "downloads":  "52K",
+                     "author":  "mikkeeeyyyy",
+                     "thumbnailUrl":  "https://api.mcpedl.com/storage/submissions/99038/100/thumbnail_1-520x245.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://api.mcpedl.com/storage/submissions/99038/100/thumbnail_1-520x245.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/mikkeeeyyyys-simple-modern-furniture.mcaddon",
+                     "isFeatured":  true,
+                     "isTrending":  true,
+                     "isNew":  false,
+                     "description":  "Decorate your world or each part of your modern house with these sets of simple modern furniture! From living rooms, bedrooms, dining room, bathroom, and more! With additional a...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Modern Furniture Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://api.mcpedl.com/storage/submissions/99038/100/thumbnail_1-520x245.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "furniture_829201",
+                     "title":  "Modern Furniture | +750 BLOCKS",
+                     "subtitle":  "Minecraft Bedrock Modern Furniture Addon",
+                     "category":  "furniture",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  4,
+                     "downloads":  "3.2M",
+                     "author":  "Trotamundos872",
+                     "thumbnailUrl":  "https://media.forgecdn.net/attachments/1959/883/final2-webp.webp?w=500\u0026q=80",
+                     "bannerUrl":  "https://media.forgecdn.net/attachments/1959/883/final2-webp.webp?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/modern-furniture-survival-addon.mcaddon",
+                     "isFeatured":  true,
+                     "isTrending":  false,
+                     "isNew":  true,
+                     "description":  "Modern Furniture is a decor addon featuring over 750 blocks, offering a wide variety of sleek and stylish furniture pieces. Perfect for creating contemporary living spaces with ...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Modern Furniture Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://media.forgecdn.net/attachments/1959/883/final2-webp.webp?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "furniture_1298992",
+                     "title":  "FURNICRAFT ~ Furniture",
+                     "subtitle":  "Minecraft Bedrock Modern Furniture Addon",
+                     "category":  "furniture",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  4.7,
+                     "downloads":  "11.6M",
+                     "author":  "ROBERTGAMER69",
+                     "thumbnailUrl":  "https://media.forgecdn.net/attachments/1888/533/e858ec49-bf1c-43d6-99ba-d4362153481a-jpeg.jpeg?w=500\u0026q=80",
+                     "bannerUrl":  "https://media.forgecdn.net/attachments/1888/533/e858ec49-bf1c-43d6-99ba-d4362153481a-jpeg.jpeg?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/furnicraft-furniture.mcaddon",
+                     "isFeatured":  true,
+                     "isTrending":  true,
+                     "isNew":  false,
+                     "description":  "This addon adds a huge amount of furniture to your Minecraft Bedrock worlds; you can place items, change their color or texture, and interact with them. It also includes cosplay...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Modern Furniture Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://media.forgecdn.net/attachments/1888/533/e858ec49-bf1c-43d6-99ba-d4362153481a-jpeg.jpeg?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "furniture_134873",
+                     "title":  "Peepss Furniture V4.5!",
+                     "subtitle":  "Minecraft Bedrock Modern Furniture Addon",
+                     "category":  "furniture",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  4.1,
+                     "downloads":  "2.9M",
+                     "author":  "Peepss",
+                     "thumbnailUrl":  "https://api.mcpedl.com/storage/submissions/31564/118/peepss-furniture-new-era-v4-only-for-116210_1-520x245.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://api.mcpedl.com/storage/submissions/31564/118/peepss-furniture-new-era-v4-only-for-116210_1-520x245.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/peepss-furniture-addon.mcaddon",
+                     "isFeatured":  true,
+                     "isTrending":  false,
+                     "isNew":  false,
+                     "description":  "An add-on that adds new furniture, with great variations and possibilities! With tables that you can mold to your taste, and more! In addition to furniture that has interactions...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Modern Furniture Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://api.mcpedl.com/storage/submissions/31564/118/peepss-furniture-new-era-v4-only-for-116210_1-520x245.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "furniture_196980",
+                     "title":  "Loled Furniture Beta | Functional Furniture 1.20+",
+                     "subtitle":  "Minecraft Bedrock Modern Furniture Addon",
+                     "category":  "furniture",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  4.1,
+                     "downloads":  "4.7M",
+                     "author":  "LoledBr Official",
+                     "thumbnailUrl":  "https://st2.mcpedl.com/submissions/31476/117/keyart4_1-520x245.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://st2.mcpedl.com/submissions/31476/117/keyart4_1-520x245.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/loled-furniture.mcaddon",
+                     "isFeatured":  true,
+                     "isTrending":  true,
+                     "isNew":  true,
+                     "description":  "Looking for a beautiful and modern furniture addon? You\u0027re in the right place!Loled Furniture adds over 200 blocks and several of these blocks are functional!If you want to stay...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Modern Furniture Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://st2.mcpedl.com/submissions/31476/117/keyart4_1-520x245.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "furniture_227421",
+                     "title":  "Medieval Furniture Addon V6.4 for MCPE 1.21.22",
+                     "subtitle":  "Minecraft Bedrock Modern Furniture Addon",
+                     "category":  "furniture",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  4.2,
+                     "downloads":  "1.7M",
+                     "author":  "EndXenocMC",
+                     "thumbnailUrl":  "https://st2.mcpedl.com/submissions/33764/125/1707263452075_1-520x245.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://st2.mcpedl.com/submissions/33764/125/1707263452075_1-520x245.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/medieval-furniture-addon.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  false,
+                     "isNew":  false,
+                     "description":  "Revamp your Minecraft surroundings with a touch of medieval charm. This Addon introduces an array of default-textured blocks, including tables, cozy chairs, and a diverse range ...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Modern Furniture Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://st2.mcpedl.com/submissions/33764/125/1707263452075_1-520x245.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "furniture_250143",
+                     "title":  "Exotic Furniture",
+                     "subtitle":  "Minecraft Bedrock Modern Furniture Addon",
+                     "category":  "furniture",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  4.7,
+                     "downloads":  "34K",
+                     "author":  "Hansma",
+                     "thumbnailUrl":  "https://api.mcpedl.com/storage/submissions/116721/100/grtrtrt_1-520x245.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://api.mcpedl.com/storage/submissions/116721/100/grtrtrt_1-520x245.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/exotic-furniture.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  true,
+                     "isNew":  false,
+                     "description":  "Transform your Minecraft world into a luxurious haven with the Exotic Furniture Addon! Elevate your virtual living spaces with seven exquisite pieces of furniture designed to ad...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Modern Furniture Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://api.mcpedl.com/storage/submissions/116721/100/grtrtrt_1-520x245.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "furniture_205180",
+                     "title":  "Lance Furniture Beta",
+                     "subtitle":  "Minecraft Bedrock Modern Furniture Addon",
+                     "category":  "furniture",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  3.6,
+                     "downloads":  "3.4M",
+                     "author":  "LancelotF",
+                     "thumbnailUrl":  "https://st2.mcpedl.com/submissions/27491/137/thumnail-livecraft_1-520x245.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://st2.mcpedl.com/submissions/27491/137/thumnail-livecraft_1-520x245.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/decoration-furniture-addon.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  false,
+                     "isNew":  true,
+                     "description":  "Add some useful decoration to your Minecraft worlds. A fridge, coffeemaker, toaster, microwave and more. The furniture actually works and its easy to use and with its new redesi...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Modern Furniture Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://st2.mcpedl.com/submissions/27491/137/thumnail-livecraft_1-520x245.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "furniture_246388",
+                     "title":  "monoDeco 0+ Furniture Addon (Chapter 3) | MCPE 1.21.60+",
+                     "subtitle":  "Minecraft Bedrock Modern Furniture Addon",
+                     "category":  "furniture",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  3.5,
+                     "downloads":  "2K",
+                     "author":  "monorogu",
+                     "thumbnailUrl":  "https://api.mcpedl.com/storage/submissions/126288/100/mcpedlmdz1_1-520x245.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://api.mcpedl.com/storage/submissions/126288/100/mcpedlmdz1_1-520x245.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/monodeco-zero-plus.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  true,
+                     "isNew":  false,
+                     "description":  "monoDeco 0+ (mdz) is a project born from the monoDeco Community, built by the community, for the community.The \"0\" represents the beginning—starting from scratch, forging new id...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Modern Furniture Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://api.mcpedl.com/storage/submissions/126288/100/mcpedlmdz1_1-520x245.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "furniture_250659",
+                     "title":  "CMC Furniture",
+                     "subtitle":  "Minecraft Bedrock Modern Furniture Addon",
+                     "category":  "furniture",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  4.7,
+                     "downloads":  "173K",
+                     "author":  "TEAM CUBITOS MC",
+                     "thumbnailUrl":  "https://api.mcpedl.com/storage/submissions/70210/109/cmc-furniture-v40_1-520x245.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://api.mcpedl.com/storage/submissions/70210/109/cmc-furniture-v40_1-520x245.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/cmc-furniture.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  false,
+                     "isNew":  false,
+                     "description":  "This add-on adds a wide variety of furniture that you can use to embellish your worlds and constructions in Minecraft. It adds blocks with modern and minimalistic style models, ...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Modern Furniture Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://api.mcpedl.com/storage/submissions/70210/109/cmc-furniture-v40_1-520x245.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "furniture_92666",
+                     "title":  "Ghoulcraft BE ~ Furniture Pack",
+                     "subtitle":  "Minecraft Bedrock Modern Furniture Addon",
+                     "category":  "furniture",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  3.8,
+                     "downloads":  "894K",
+                     "author":  "kaomc_",
+                     "thumbnailUrl":  "https://r2.mcpedl.com/submissions/32946/105/ghoulcraft-be-furniture-pack_1.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://r2.mcpedl.com/submissions/32946/105/ghoulcraft-be-furniture-pack_1.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/ghoulcraft-be-furniture-pack.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  true,
+                     "isNew":  true,
+                     "description":  "Ghoulcraft BE is an Add-On for Minecraft. This pack contains counters, drawers, chairs, beds, and many more. All furniture items in all 6 wood types are included in this pack.\n",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Modern Furniture Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://r2.mcpedl.com/submissions/32946/105/ghoulcraft-be-furniture-pack_1.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "furniture_1499320",
+                     "title":  "monoDeco Gen 7 - Furniture Addon",
+                     "subtitle":  "Minecraft Bedrock Modern Furniture Addon",
+                     "category":  "furniture",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  4.1,
+                     "downloads":  "105K",
+                     "author":  "monorogu",
+                     "thumbnailUrl":  "https://media.forgecdn.net/attachments/1688/903/mcpedl-png.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://media.forgecdn.net/attachments/1688/903/mcpedl-png.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/monodeco-gen-7.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  false,
+                     "isNew":  false,
+                     "description":  "monoDeco Gen 7 is an All-in-one addon, there\u0027s 3000+ Furniture Blocks.",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Modern Furniture Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://media.forgecdn.net/attachments/1688/903/mcpedl-png.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "furniture_184092",
+                     "title":  "Fancy Furniture - Beach Furniture Edition",
+                     "subtitle":  "Minecraft Bedrock Modern Furniture Addon",
+                     "category":  "furniture",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  4.3,
+                     "downloads":  "341K",
+                     "author":  "mno",
+                     "thumbnailUrl":  "https://api.mcpedl.com/storage/submissions/31064/106/20230103-093121greenshot-beach-fancy-furniture-906_1-520x245.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://api.mcpedl.com/storage/submissions/31064/106/20230103-093121greenshot-beach-fancy-furniture-906_1-520x245.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/fancy-furniture-add-on.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  true,
+                     "isNew":  false,
+                     "description":  "Pop quiz! What is (a) Fancy and (b) Furniture? If you guessed Fancy Furniture you\u0027re exactly right! Genius-level in fact. And you may download this Add-On. Actually, everyone ca...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Modern Furniture Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://api.mcpedl.com/storage/submissions/31064/106/20230103-093121greenshot-beach-fancy-furniture-906_1-520x245.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "furniture_233551",
+                     "title":  "DecoFlex Furniture BETA (Modern furniture for Minecraft PE) 1.21.30",
+                     "subtitle":  "Minecraft Bedrock Modern Furniture Addon",
+                     "category":  "furniture",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  4,
+                     "downloads":  "87K",
+                     "author":  "EndXenocMC",
+                     "thumbnailUrl":  "https://st2.mcpedl.com/submissions/122156/100/decoflexfurniture_1-520x245.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://st2.mcpedl.com/submissions/122156/100/decoflexfurniture_1-520x245.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/decoflex-furniture-beta-modern-furniture-for-minecraft-pe-1-21-30.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  false,
+                     "isNew":  true,
+                     "description":  "DecoFlex Furniture is an Add-On that adds a wide variety of furniture, all of which can be painted in the 16 colors of Minecraft. This Add-On also adds a new crafting table with...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Modern Furniture Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://st2.mcpedl.com/submissions/122156/100/decoflexfurniture_1-520x245.png?w=500\u0026q=80"
+                                     ]
+                 }
+             ]
 }
-

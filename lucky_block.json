@@ -1,38 +1,540 @@
 ﻿{
-    "enable_promo_mode":  false,
-    "mods":  [
-
-             ],
-    "force_update":  false,
     "version":  1,
     "appTitle":  "App",
-    "rating_url":  "https://www.amazon.com/gp/mas/dl/android?p=com.example.veritymod.mcpe",
+    "updateNotice":  "Updated Lucky Block for MCPE 1.20 \u0026 1.21 Tricky Trials",
     "enable_rating_dialog":  false,
-    "update_url":  "https://www.amazon.com/gp/mas/dl/android?p=com.example.veritymod.mcpe",
+    "rating_url":  "https://www.amazon.com/gp/mas/dl/android?p=com.example.veritymod.mcpe",
+    "force_update":  false,
+    "update_title":  "Update Available!",
     "update_message":  "A new version of App is available. Please update from Amazon Appstore.",
+    "update_url":  "https://www.amazon.com/gp/mas/dl/android?p=com.example.veritymod.mcpe",
+    "enable_promo_mode":  false,
     "categories":  [
                        {
-                           "name":  "All Blocks",
                            "id":  "all",
+                           "name":  "All Blocks",
                            "badge":  "ALL"
                        },
                        {
-                           "name":  "Lucky Blocks",
                            "id":  "lucky",
+                           "name":  "Lucky Blocks",
                            "badge":  "HOT"
                        },
                        {
-                           "name":  "OneBlock Skyblock",
                            "id":  "oneblock",
+                           "name":  "OneBlock Skyblock",
                            "badge":  "NEW"
                        },
                        {
-                           "name":  "Lucky Races",
                            "id":  "maps",
+                           "name":  "Lucky Races",
                            "badge":  "ARENA"
                        }
                    ],
-    "update_title":  "Update Available!",
-    "updateNotice":  "Updated Lucky Block for MCPE 1.20 \u0026 1.21 Tricky Trials"
+    "mods":  [
+                 {
+                     "id":  "luckyblock_128382",
+                     "title":  "Lucky Block One Block",
+                     "subtitle":  "Minecraft Bedrock Lucky Block Addon",
+                     "category":  "luckyblock",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  4.7,
+                     "downloads":  "447K",
+                     "author":  "AB Gaming Studios",
+                     "thumbnailUrl":  "https://st2.mcpedl.com/submissions/74404/100/20210821193020_1-520x245.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://st2.mcpedl.com/submissions/74404/100/20210821193020_1-520x245.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/lucky-block-one-block-1.mcaddon",
+                     "isFeatured":  true,
+                     "isTrending":  false,
+                     "isNew":  false,
+                     "description":  "Hello guys this is lucky block one block map survive this world and build your base and improve your strength and go to the end world and kill the ender dragon and complete the ...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Lucky Block Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://st2.mcpedl.com/submissions/74404/100/20210821193020_1-520x245.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "luckyblock_82739",
+                     "title":  "Lucky Block Race",
+                     "subtitle":  "Minecraft Bedrock Lucky Block Addon",
+                     "category":  "luckyblock",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  4.5,
+                     "downloads":  "268K",
+                     "author":  "Muricraft Studios",
+                     "thumbnailUrl":  "https://r2.mcpedl.com/submissions/42903/103/lucky-block-race_1-1.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://r2.mcpedl.com/submissions/42903/103/lucky-block-race_1-1.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/lucky-block-race-1.mcaddon",
+                     "isFeatured":  true,
+                     "isTrending":  true,
+                     "isNew":  false,
+                     "description":  "Thes map is about Lucky Block.Here you will find many types of lucky blocks. You have to break these And must survive in the end. you can play with 2 or up to 4 players.there is...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Lucky Block Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://r2.mcpedl.com/submissions/42903/103/lucky-block-race_1-1.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "luckyblock_245781",
+                     "title":  "Yellow Lucky Block",
+                     "subtitle":  "Minecraft Bedrock Lucky Block Addon",
+                     "category":  "luckyblock",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  4.7,
+                     "downloads":  "20K",
+                     "author":  "TheBrown",
+                     "thumbnailUrl":  "https://api.mcpedl.com/storage/submissions/122823/100/202411030048250000_1-520x245.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://api.mcpedl.com/storage/submissions/122823/100/202411030048250000_1-520x245.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/yellow-lucky-block.mcaddon",
+                     "isFeatured":  true,
+                     "isTrending":  false,
+                     "isNew":  true,
+                     "description":  "A brand new excitement is coming to your Minecraft experience. When you see a Yellow Lucky Block, don\u0027t break it right away, think before you break it because there might be som...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Lucky Block Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://api.mcpedl.com/storage/submissions/122823/100/202411030048250000_1-520x245.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "luckyblock_229837",
+                     "title":  "Lucky Blocks Race",
+                     "subtitle":  "Minecraft Bedrock Lucky Block Addon",
+                     "category":  "luckyblock",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  3.6,
+                     "downloads":  "606K",
+                     "author":  "TEAM CUBITOS MC",
+                     "thumbnailUrl":  "https://st2.mcpedl.com/submissions/37992/110/luckyblocksracev41_1-520x245.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://st2.mcpedl.com/submissions/37992/110/luckyblocksracev41_1-520x245.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/lucky-blocks-race-map-minigame.mcaddon",
+                     "isFeatured":  true,
+                     "isTrending":  true,
+                     "isNew":  false,
+                     "description":  "Welcome to this classic mini-game where players will advance through individual tracks, smashing lucky blocks that could grant them both rewards and challenges. The adventure cu...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Lucky Block Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://st2.mcpedl.com/submissions/37992/110/luckyblocksracev41_1-520x245.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "luckyblock_227167",
+                     "title":  "LUCKY ONE BLOCK 1.21",
+                     "subtitle":  "Minecraft Bedrock Lucky Block Addon",
+                     "category":  "luckyblock",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  4.7,
+                     "downloads":  "50K",
+                     "author":  "GOAT_GAMERZ",
+                     "thumbnailUrl":  "https://api.mcpedl.com/storage/submissions/120827/100/screenshot20240907221512869_1-520x245.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://api.mcpedl.com/storage/submissions/120827/100/screenshot20240907221512869_1-520x245.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/lucky-one-block-1-21.mcaddon",
+                     "isFeatured":  true,
+                     "isTrending":  false,
+                     "isNew":  false,
+                     "description":  "This is my own world please supportYouTube channel: https://youtube.com/@goat_gamerz_7?si=Y6GnDBMEEP0RyXEDDon\u0027t stand on lucky BLOCK.*No error*1.21                              \n",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Lucky Block Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://api.mcpedl.com/storage/submissions/120827/100/screenshot20240907221512869_1-520x245.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "luckyblock_188827",
+                     "title":  "Flat Lucky Worlds",
+                     "subtitle":  "Minecraft Bedrock Lucky Block Addon",
+                     "category":  "maps",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  3.8,
+                     "downloads":  "412K",
+                     "author":  "Effect99MC",
+                     "thumbnailUrl":  "https://api.mcpedl.com/storage/submissions/44675/103/luckyflatworld_1-520x245.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://api.mcpedl.com/storage/submissions/44675/103/luckyflatworld_1-520x245.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/flat-lucky-worlds.mcaddon",
+                     "isFeatured":  true,
+                     "isTrending":  true,
+                     "isNew":  true,
+                     "description":  "Download one of these three flat worlds and enjoy with your friends opening blocks of luck to infinity, you can fight with Herobrine, the dragon, giant lava slimes, a giant zomb...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Lucky Block Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://api.mcpedl.com/storage/submissions/44675/103/luckyflatworld_1-520x245.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "luckyblock_140209",
+                     "title":  "Rainbow Lucky Block One Block",
+                     "subtitle":  "Minecraft Bedrock Lucky Block Addon",
+                     "category":  "luckyblock",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  4.7,
+                     "downloads":  "291K",
+                     "author":  "AB Gaming Studios",
+                     "thumbnailUrl":  "https://st2.mcpedl.com/submissions/57120/100/rainbow-lucky-block-one-block_1-520x245.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://st2.mcpedl.com/submissions/57120/100/rainbow-lucky-block-one-block_1-520x245.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/rainbow-lucky-block-one-block-map.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  false,
+                     "isNew":  false,
+                     "description":  "Hello guys! This is a rainbow lucky block map. Starting out you will have only one lucky block but as you break the rainbow lucky block a new one will come to you. You have to k...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Lucky Block Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://st2.mcpedl.com/submissions/57120/100/rainbow-lucky-block-one-block_1-520x245.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "luckyblock_1140020",
+                     "title":  "Lucky One Block",
+                     "subtitle":  "Minecraft Bedrock Lucky Block Addon",
+                     "category":  "luckyblock",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  4.7,
+                     "downloads":  "166K",
+                     "author":  "Ð†Ä_MÇ",
+                     "thumbnailUrl":  "https://media.forgecdn.net/attachments/1822/655/world_icon-png.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://media.forgecdn.net/attachments/1822/655/world_icon-png.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/dta-lucky-one-block-by-dta-mc-or-devansh-trivedi.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  true,
+                     "isNew":  false,
+                     "description":  "Lucky One Block",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Lucky Block Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://media.forgecdn.net/attachments/1822/655/world_icon-png.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "luckyblock_1244737",
+                     "title":  "Lucky Skyblock V5",
+                     "subtitle":  "Minecraft Bedrock Lucky Block Addon",
+                     "category":  "luckyblock",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  3.5,
+                     "downloads":  "159K",
+                     "author":  "INTOR",
+                     "thumbnailUrl":  "https://media.forgecdn.net/attachments/1242/869/v5-5-world_icon-jpeg.jpeg?w=500\u0026q=80",
+                     "bannerUrl":  "https://media.forgecdn.net/attachments/1242/869/v5-5-world_icon-jpeg.jpeg?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/lucky-tree-skyblock.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  false,
+                     "isNew":  true,
+                     "description":  "Skyblock! Conquer, build, buy and sell! Find the lucky tree and earn bonuses! Map has: 5 biomes; Jungle, Taiga, Savannah, Nether and End / shop / old lava factory / 2 spawners. ...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Lucky Block Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://media.forgecdn.net/attachments/1242/869/v5-5-world_icon-jpeg.jpeg?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "luckyblock_252543",
+                     "title":  "Lucky Block Addon",
+                     "subtitle":  "Minecraft Bedrock Lucky Block Addon",
+                     "category":  "luckyblock",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  4.7,
+                     "downloads":  "25K",
+                     "author":  "RuppyDL",
+                     "thumbnailUrl":  "https://api.mcpedl.com/storage/submissions/121587/100/20241003035600_1-520x245.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://api.mcpedl.com/storage/submissions/121587/100/20241003035600_1-520x245.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/lucky-block-addon-9.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  true,
+                     "isNew":  false,
+                     "description":  "Get ready for an exciting twist in your Minecraft adventures with the Lucky Block Mod! Break open a lucky block, and something amazing (or dangerous!) might happen! This mod int...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Lucky Block Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://api.mcpedl.com/storage/submissions/121587/100/20241003035600_1-520x245.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "luckyblock_1641555",
+                     "title":  "One Block Lucky Block",
+                     "subtitle":  "Minecraft Bedrock Lucky Block Addon",
+                     "category":  "luckyblock",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  4.2,
+                     "downloads":  "25K",
+                     "author":  "TryzzMC",
+                     "thumbnailUrl":  "https://media.forgecdn.net/attachments/1846/729/mcpedl-jpg.jpg?w=500\u0026q=80",
+                     "bannerUrl":  "https://media.forgecdn.net/attachments/1846/729/mcpedl-jpg.jpg?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/one-block-lucky-block-tryzzmc.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  false,
+                     "isNew":  false,
+                     "description":  "Are you ready to break some Lucky Blocks with awesome new outcomes? Start your next adventure in the sky!",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Lucky Block Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://media.forgecdn.net/attachments/1846/729/mcpedl-jpg.jpg?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "luckyblock_1290252",
+                     "title":  "Lucky Flat World V3 ",
+                     "subtitle":  "Minecraft Bedrock Lucky Block Addon",
+                     "category":  "maps",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  3.6,
+                     "downloads":  "50K",
+                     "author":  "INTOR",
+                     "thumbnailUrl":  "https://media.forgecdn.net/attachments/1800/561/mcpedl-jpg.jpg?w=500\u0026q=80",
+                     "bannerUrl":  "https://media.forgecdn.net/attachments/1800/561/mcpedl-jpg.jpg?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/lucky-flat-world.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  true,
+                     "isNew":  true,
+                     "description":  "An infinite world made up entirely of Lucky Blocks",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Lucky Block Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://media.forgecdn.net/attachments/1800/561/mcpedl-jpg.jpg?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "luckyblock_95095",
+                     "title":  "Spiral Lucky Block",
+                     "subtitle":  "Minecraft Bedrock Lucky Block Addon",
+                     "category":  "luckyblock",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  3.9,
+                     "downloads":  "219K",
+                     "author":  "Effect99MC",
+                     "thumbnailUrl":  "https://api.mcpedl.com/storage/submissions/54307/100/spiral-lucky-block_1-520x245.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://api.mcpedl.com/storage/submissions/54307/100/spiral-lucky-block_1-520x245.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/spiral-lucky-block-addon.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  false,
+                     "isNew":  false,
+                     "description":  "At last comes the Spiral Lucky Block which adds many special weapons, armor, powerful enemies, cool structures like the red dragon dungeon, the slime king castle, the lucky towe...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Lucky Block Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://api.mcpedl.com/storage/submissions/54307/100/spiral-lucky-block_1-520x245.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "luckyblock_1304918",
+                     "title":  "Lucky blocks",
+                     "subtitle":  "Minecraft Bedrock Lucky Block Addon",
+                     "category":  "luckyblock",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  4.1,
+                     "downloads":  "1.4M",
+                     "author":  "Effect99MC",
+                     "thumbnailUrl":  "https://media.forgecdn.net/attachments/1250/152/mcpedl-png.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://media.forgecdn.net/attachments/1250/152/mcpedl-png.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/lucky-blocks-effect99-addon.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  true,
+                     "isNew":  false,
+                     "description":  "What they\u0027ve been asking for for so long, a Lucky Block addon that generates structures, mobs, drops, potion effects and much more, plus not only was one lucky block added, but ...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Lucky Block Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://media.forgecdn.net/attachments/1250/152/mcpedl-png.png?w=500\u0026q=80"
+                                     ]
+                 }
+             ]
 }
-

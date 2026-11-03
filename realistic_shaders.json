@@ -1,38 +1,576 @@
 ﻿{
-    "enable_promo_mode":  false,
-    "mods":  [
-
-             ],
-    "force_update":  false,
     "version":  1,
     "appTitle":  "App",
-    "rating_url":  "https://www.amazon.com/gp/mas/dl/android?p=com.example.veritymod.mcpe",
+    "updateNotice":  "Updated Realistic Shaders for MCPE 1.20 \u0026 1.21 Tricky Trials",
     "enable_rating_dialog":  false,
-    "update_url":  "https://www.amazon.com/gp/mas/dl/android?p=com.example.veritymod.mcpe",
+    "rating_url":  "https://www.amazon.com/gp/mas/dl/android?p=com.example.veritymod.mcpe",
+    "force_update":  false,
+    "update_title":  "Update Available!",
     "update_message":  "A new version of App is available. Please update from Amazon Appstore.",
+    "update_url":  "https://www.amazon.com/gp/mas/dl/android?p=com.example.veritymod.mcpe",
+    "enable_promo_mode":  false,
     "categories":  [
                        {
-                           "name":  "All Shaders",
                            "id":  "all",
+                           "name":  "All Shaders",
                            "badge":  "ALL"
                        },
                        {
-                           "name":  "Realistic Shaders",
                            "id":  "shaders",
+                           "name":  "Realistic Shaders",
                            "badge":  "HOT"
                        },
                        {
-                           "name":  "RTX Textures",
                            "id":  "rtx",
+                           "name":  "RTX Textures",
                            "badge":  "4K"
                        },
                        {
-                           "name":  "Shader Maps",
                            "id":  "maps",
+                           "name":  "Shader Maps",
                            "badge":  "BUILD"
                        }
                    ],
-    "update_title":  "Update Available!",
-    "updateNotice":  "Updated Realistic Shaders for MCPE 1.20 \u0026 1.21 Tricky Trials"
+    "mods":  [
+                 {
+                     "id":  "shaders_253755",
+                     "title":  "BRAZZ SHADER",
+                     "subtitle":  "Minecraft Bedrock Realistic Shaders Addon",
+                     "category":  "shaders",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  3.6,
+                     "downloads":  "42K",
+                     "author":  "Lucas Coelho",
+                     "thumbnailUrl":  "https://api.mcpedl.com/storage/submissions/129006/100/file00000000d80061f6843ff3d8328177d8conversationid67f9aeb3ee4c800c855f80c9f2da6daemessageid365a926ca9a441ffadf3c5f8302bed02_1-520x245.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://api.mcpedl.com/storage/submissions/129006/100/file00000000d80061f6843ff3d8328177d8conversationid67f9aeb3ee4c800c855f80c9f2da6daemessageid365a926ca9a441ffadf3c5f8302bed02_1-520x245.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/brazz-shader.mcaddon",
+                     "isFeatured":  true,
+                     "isTrending":  false,
+                     "isNew":  false,
+                     "description":  "BRAZZ SHADER  Minecraft Bedrock! BRAZZ Shader is a complete visual pack made for Minecraft Bedrock 1.21+. With several integrated visual filters (subpacks), it completely transf...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Realistic Shaders Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://api.mcpedl.com/storage/submissions/129006/100/file00000000d80061f6843ff3d8328177d8conversationid67f9aeb3ee4c800c855f80c9f2da6daemessageid365a926ca9a441ffadf3c5f8302bed02_1-520x245.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "shaders_254366",
+                     "title":  "Newb X Dawn Shader Patch | Support RenderDragon (Compatible With 1.21.80.25+)",
+                     "subtitle":  "Minecraft Bedrock Realistic Shaders Addon",
+                     "category":  "shaders",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  3.5,
+                     "downloads":  "750K",
+                     "author":  "Ale‎ ‎",
+                     "thumbnailUrl":  "https://api.mcpedl.com/storage/submissions/117635/106/picsart241219061754750_1-520x245.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://api.mcpedl.com/storage/submissions/117635/106/picsart241219061754750_1-520x245.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/newb-x-dawn-shader.mcaddon",
+                     "isFeatured":  true,
+                     "isTrending":  true,
+                     "isNew":  false,
+                     "description":  "There is a new update of newb X RTX with new features and compatible with the latest version which is the 1.21.80.25+, well now with the name of Newb X Dawn, the name change is ...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Realistic Shaders Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://api.mcpedl.com/storage/submissions/117635/106/picsart241219061754750_1-520x245.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "shaders_253608",
+                     "title":  "AziFy Truly Default v3.0 Shader New Update!! || MCBE 1.21.72+ Shader",
+                     "subtitle":  "Minecraft Bedrock Realistic Shaders Addon",
+                     "category":  "shaders",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  4.7,
+                     "downloads":  "250K",
+                     "author":  "Azi Angelo Real",
+                     "thumbnailUrl":  "https://api.mcpedl.com/storage/submissions/111263/109/picsart250209233516279_1-520x245.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://api.mcpedl.com/storage/submissions/111263/109/picsart250209233516279_1-520x245.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/af-truly-default.mcaddon",
+                     "isFeatured":  true,
+                     "isTrending":  false,
+                     "isNew":  true,
+                     "description":  "AziFy Truly Default  The Classic vanilla Minecraft look is improved by this AziFy Truly Default Shader, which works at delivering realistic graphics or visuals without making th...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Realistic Shaders Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://api.mcpedl.com/storage/submissions/111263/109/picsart250209233516279_1-520x245.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "shaders_253565",
+                     "title":  "AziFy Natural Shader v3.0 Mcpe 1.21.72+ Shader",
+                     "subtitle":  "Minecraft Bedrock Realistic Shaders Addon",
+                     "category":  "shaders",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  4.7,
+                     "downloads":  "121K",
+                     "author":  "Azi Angelo Real",
+                     "thumbnailUrl":  "https://api.mcpedl.com/storage/submissions/115075/113/picsart250114225357934_1-520x245.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://api.mcpedl.com/storage/submissions/115075/113/picsart250114225357934_1-520x245.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/afn.mcaddon",
+                     "isFeatured":  true,
+                     "isTrending":  true,
+                     "isNew":  false,
+                     "description":  "I\u0027m excited to share the 3rd version of AziFy Natural Shader for MCBE! This update brings even better lighting, smoother shadows, and improved color quality. It makes the game l...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Realistic Shaders Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://api.mcpedl.com/storage/submissions/115075/113/picsart250114225357934_1-520x245.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "shaders_1179976",
+                     "title":  "Newb Shader",
+                     "subtitle":  "Minecraft Bedrock Realistic Shaders Addon",
+                     "category":  "shaders",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  3.9,
+                     "downloads":  "3.5M",
+                     "author":  "devendrn",
+                     "thumbnailUrl":  "https://media.forgecdn.net/attachments/1067/731/post-cover-15.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://media.forgecdn.net/attachments/1067/731/post-cover-15.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/newb-shader.mcaddon",
+                     "isFeatured":  true,
+                     "isTrending":  false,
+                     "isNew":  false,
+                     "description":  "Newb Shader is an enhanced vanilla shader that focuses on being lightweight and having soft aesthetics. It supports Minecraft Bedrock 1.21+ (Windows/Android/iOS).",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Realistic Shaders Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://media.forgecdn.net/attachments/1067/731/post-cover-15.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "shaders_245887",
+                     "title":  "FHD Shader v1 || MCBE Shader 1.21.51+ All platforms!",
+                     "subtitle":  "Minecraft Bedrock Realistic Shaders Addon",
+                     "category":  "shaders",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  4.7,
+                     "downloads":  "66K",
+                     "author":  "Azi Angelo Real",
+                     "thumbnailUrl":  "https://api.mcpedl.com/storage/submissions/122977/109/picsart250114225045737_1-520x245.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://api.mcpedl.com/storage/submissions/122977/109/picsart250114225045737_1-520x245.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/fhd-shader.mcaddon",
+                     "isFeatured":  true,
+                     "isTrending":  true,
+                     "isNew":  true,
+                     "description":  "The FHD Shader is a beautiful and smooth shader for Minecraft Bedrock that I made to bring back the older HSD Shader. Since HSD Shader stopped working with Minecraft\u0027s new updat...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Realistic Shaders Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://api.mcpedl.com/storage/submissions/122977/109/picsart250114225045737_1-520x245.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "shaders_248191",
+                     "title":  "K3013\u0027s shader",
+                     "subtitle":  "Minecraft Bedrock Realistic Shaders Addon",
+                     "category":  "shaders",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  4.7,
+                     "downloads":  "6K",
+                     "author":  "K3013",
+                     "thumbnailUrl":  "https://api.mcpedl.com/storage/submissions/127268/100/no-a-screenshot-visual-_1-520x245.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://api.mcpedl.com/storage/submissions/127268/100/no-a-screenshot-visual-_1-520x245.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/k3013-shader-rtx.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  false,
+                     "isNew":  false,
+                     "description":  "For english speakers :K3013\u0027s shaders is a rtx pack but with only emissives textures and fogs.Pour les gens parlant français :K3013\u0027s shaders est un pack RTX mais avec seulement...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Realistic Shaders Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://api.mcpedl.com/storage/submissions/127268/100/no-a-screenshot-visual-_1-520x245.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "shaders_1725616",
+                     "title":  "Horizon Shader",
+                     "subtitle":  "Minecraft Bedrock Realistic Shaders Addon",
+                     "category":  "shaders",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  4.7,
+                     "downloads":  "23K",
+                     "author":  "PROMO_ADDON",
+                     "thumbnailUrl":  "https://media.forgecdn.net/attachments/2007/664/horizon_thumbnail_simple_sunset_1920x1080-jpg.jpg?w=500\u0026q=80",
+                     "bannerUrl":  "https://media.forgecdn.net/attachments/2007/664/horizon_thumbnail_simple_sunset_1920x1080-jpg.jpg?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/horizon-shader.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  true,
+                     "isNew":  false,
+                     "description":  "A soft, atmospheric Bedrock shader with warm sunsets, realistic clouds, rain, water reflections and aurora. Windows + Android.",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Realistic Shaders Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://media.forgecdn.net/attachments/2007/664/horizon_thumbnail_simple_sunset_1920x1080-jpg.jpg?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "shaders_254365",
+                     "title":  "Newb X Ale Renewed Fixed | Support RenderDragon (Compatible With 1.21.80.25+)",
+                     "subtitle":  "Minecraft Bedrock Realistic Shaders Addon",
+                     "category":  "shaders",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  3.5,
+                     "downloads":  "575K",
+                     "author":  "Ale‎ ‎",
+                     "thumbnailUrl":  "https://api.mcpedl.com/storage/submissions/116828/113/picsart250319230637040_1-520x245.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://api.mcpedl.com/storage/submissions/116828/113/picsart250319230637040_1-520x245.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/newb-x-ale-shader.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  false,
+                     "isNew":  true,
+                     "description":  "Now compatible whit Minecraft 1.21.80.25+. A new update of the Newb x Ale now replicating the ESTN SHADER, Super Duper Graphics Pack, Super Duper Vanilla Shader and the Ultra Re...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Realistic Shaders Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://api.mcpedl.com/storage/submissions/116828/113/picsart250319230637040_1-520x245.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "shaders_1238974",
+                     "title":  "RG Shader | Renderdragon Shaders",
+                     "subtitle":  "Minecraft Bedrock Realistic Shaders Addon",
+                     "category":  "shaders",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  4.1,
+                     "downloads":  "411K",
+                     "author":  "RisabGamerz",
+                     "thumbnailUrl":  "https://media.forgecdn.net/attachments/1557/626/1000981274-gif.gif?w=500\u0026q=80",
+                     "bannerUrl":  "https://media.forgecdn.net/attachments/1557/626/1000981274-gif.gif?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/rg-shader-v2-1-renderdragon-support-2.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  true,
+                     "isNew":  false,
+                     "description":  "Best Non-patch Shader for MCPE \u0026 Bedrock! . Realistic fog, Godrays , waving leaves/water, smooth lighting , Better  \u0026 no lag on low-end devices. Renderdragon compatible. Boost v...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Realistic Shaders Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://media.forgecdn.net/attachments/1557/626/1000981274-gif.gif?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "shaders_248875",
+                     "title":  "Newb X Stars Shader Patch | Support RenderDragon ( Compatible With 1.21.62+ )",
+                     "subtitle":  "Minecraft Bedrock Realistic Shaders Addon",
+                     "category":  "shaders",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  4.7,
+                     "downloads":  "354K",
+                     "author":  "Ale Graphics",
+                     "thumbnailUrl":  "https://api.mcpedl.com/storage/submissions/117015/109/picsart241030040853279_1-520x245.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://api.mcpedl.com/storage/submissions/117015/109/picsart241030040853279_1-520x245.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/newb-x-stars-shader-patch.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  false,
+                     "isNew":  false,
+                     "description":  "Now Compatible with version 1.21.62. An update has just arrived for Newb X Stars starred version. Newb X Stars shaders are back. These shaders are a new variant customized by me...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Realistic Shaders Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://api.mcpedl.com/storage/submissions/117015/109/picsart241030040853279_1-520x245.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "shaders_226392",
+                     "title":  "[RRD] SHADER v1",
+                     "subtitle":  "Minecraft Bedrock Realistic Shaders Addon",
+                     "category":  "shaders",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  3.6,
+                     "downloads":  "80K",
+                     "author":  "太陽と月",
+                     "thumbnailUrl":  "https://api.mcpedl.com/storage/submissions/120401/109/screenshot20240825220019_1-520x245.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://api.mcpedl.com/storage/submissions/120401/109/screenshot20240825220019_1-520x245.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/rrd-shader-v1.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  true,
+                     "isNew":  true,
+                     "description":  "[RRD] SHADER IS A TEXTURE PACK THAT ARE MADE TO LOOK LIKE SHADER FOR THE ORIGINAL VERSION OF MINECRAFT PE____________________________________It has a very realistic visual exper...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Realistic Shaders Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://api.mcpedl.com/storage/submissions/120401/109/screenshot20240825220019_1-520x245.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "shaders_1246515",
+                     "title":  "Newb Complemetary Shader | Compatible With v26.60+",
+                     "subtitle":  "Minecraft Bedrock Realistic Shaders Addon",
+                     "category":  "shaders",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  3.6,
+                     "downloads":  "654K",
+                     "author":  "Ale‎ ‎",
+                     "thumbnailUrl":  "https://media.forgecdn.net/attachments/2066/45/mcpedl-jpg.jpg?w=500\u0026q=80",
+                     "bannerUrl":  "https://media.forgecdn.net/attachments/2066/45/mcpedl-jpg.jpg?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/newb-complementary.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  false,
+                     "isNew":  false,
+                     "description":  "Newb Complementary is a shader pack for Minecraft Bedrock based on the Java Edition\u0027s Complementary Shaders. It is designed for MCBE users who want an experience similar to what...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Realistic Shaders Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://media.forgecdn.net/attachments/2066/45/mcpedl-jpg.jpg?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "shaders_1514071",
+                     "title":  "Newb X Sapphire shader",
+                     "subtitle":  "Minecraft Bedrock Realistic Shaders Addon",
+                     "category":  "shaders",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  3.7,
+                     "downloads":  "90K",
+                     "author":  "Maximint",
+                     "thumbnailUrl":  "https://media.forgecdn.net/attachments/1969/5/1000021857-png.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://media.forgecdn.net/attachments/1969/5/1000021857-png.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/newb-x-sapphire-shader.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  true,
+                     "isNew":  false,
+                     "description":  "A shader pack for RenderDragon engine - supports Minecraft Bedrock (Android/iOS/Windows)",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Realistic Shaders Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://media.forgecdn.net/attachments/1969/5/1000021857-png.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "shaders_212521",
+                     "title":  "NRRDS Shader v1.0.2 for Minecraft PE/BE 1.20+ [Render Dragon Support]",
+                     "subtitle":  "Minecraft Bedrock Realistic Shaders Addon",
+                     "category":  "shaders",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  3.8,
+                     "downloads":  "1.3M",
+                     "author":  "Arthur156",
+                     "thumbnailUrl":  "https://api.mcpedl.com/storage/submissions/90086/102/nrrds-shader-120-render-dragon-mcpe_1-520x245.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://api.mcpedl.com/storage/submissions/90086/102/nrrds-shader-120-render-dragon-mcpe_1-520x245.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/nrrds-shader-for-minecraft-pe.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  false,
+                     "isNew":  true,
+                     "description":  "This is not quite a shader (Since version 1.18.3 in MCPE Bedrock, shaders are no longer supported), but in any case, this texture pack transforms the graphics in th...",
+                     "features":  [
+                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Fully Animated \u0026 High-Quality Realistic Shaders Models",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://api.mcpedl.com/storage/submissions/90086/102/nrrds-shader-120-render-dragon-mcpe_1-520x245.png?w=500\u0026q=80"
+                                     ]
+                 }
+             ]
 }
-
