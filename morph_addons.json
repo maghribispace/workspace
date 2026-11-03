@@ -28,240 +28,24 @@
                    ],
     "mods":  [
                  {
-                     "id":  "morph_4346001605793",
-                     "title":  "MorphX: Block Edition",
-                     "subtitle":  "Minecraft Bedrock Addon",
-                     "category":  "morph",
-                     "mcpeVersion":  "1.20 - 1.21+",
-                     "fileSize":  "520.2 KB",
-                     "rating":  5,
-                     "downloads":  "23K",
-                     "author":  "Kareo Gamerz",
-                     "thumbnailUrl":  "https://mcaddonspe.store/uploads/covers/morphx-block-edition/cover.jpg?w=500\u0026q=80",
-                     "bannerUrl":  "https://mcaddonspe.store/uploads/covers/morphx-block-edition/cover.jpg?w=500\u0026q=80",
-                     "downloadUrl":  "https://mcaddonspe.store/uploads/files/morphx-block-edition/MorphX_Block_Edition_V_1.1.0.mcaddon",
-                     "isFeatured":  true,
-                     "isTrending":  false,
-                     "isNew":  false,
-                     "description":  "Transform into over 200+ Minecraft blocks with MorphX: Block Edition! Enjoy a fullscreen morph menu, hybrid unlock system, multiplayer support, favorites, search, categories and permanent unlock progression in MCPE Bedrock.",
-                     "features":  [
-                                      "Direct 1-Click High Speed Download for MCPE",
-                                      "Unique Custom Models \u0026 Morphing Abilities",
-                                      "Survival Friendly \u0026 Multiplayer Compatible",
-                                      "Instant Auto-Import directly into Minecraft PE"
-                                  ],
-                     "requirements":  [
-                                          "Minecraft PE / Bedrock Edition 1.20+",
-                                          "Enable Experimental Gameplay in World Settings"
-                                      ],
-                     "installationSteps":  [
-                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
-                                               "Select MCPE from the Open With dialog to import automatically",
-                                               "Activate Resource \u0026 Behavior packs in your World Settings"
-                                           ],
-                     "screenshots":  [
-                                         "https://mcaddonspe.store/uploads/covers/morphx-block-edition/cover.jpg?w=500\u0026q=80"
-                                     ]
-                 },
-                 {
-                     "id":  "morph_40725",
-                     "title":  "Wither Skeleton Morph",
-                     "subtitle":  "Minecraft Bedrock Addon",
-                     "category":  "morph",
-                     "mcpeVersion":  "1.20 - 1.21+",
-                     "fileSize":  "1.3 KB",
-                     "rating":  4.7,
-                     "downloads":  "17K",
-                     "author":  "Carp Corps",
-                     "thumbnailUrl":  "https://mcaddonspe.store/uploads/covers/wither-skeleton-morph/cover.png?w=500\u0026q=80",
-                     "bannerUrl":  "https://mcaddonspe.store/uploads/covers/wither-skeleton-morph/cover.png?w=500\u0026q=80",
-                     "downloadUrl":  "https://mcaddonspe.store/uploads/files/wither-skeleton-morph/wither-skeleton-morph.mcaddon",
-                     "isFeatured":  true,
-                     "isTrending":  true,
-                     "isNew":  false,
-                     "description":  "Wither Skeleton Morph for MCPE Bedrock.",
-                     "features":  [
-                                      "Direct 1-Click High Speed Download for MCPE",
-                                      "Unique Custom Models \u0026 Morphing Abilities",
-                                      "Survival Friendly \u0026 Multiplayer Compatible",
-                                      "Instant Auto-Import directly into Minecraft PE"
-                                  ],
-                     "requirements":  [
-                                          "Minecraft PE / Bedrock Edition 1.20+",
-                                          "Enable Experimental Gameplay in World Settings"
-                                      ],
-                     "installationSteps":  [
-                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
-                                               "Select MCPE from the Open With dialog to import automatically",
-                                               "Activate Resource \u0026 Behavior packs in your World Settings"
-                                           ],
-                     "screenshots":  [
-                                         "https://mcaddonspe.store/uploads/covers/wither-skeleton-morph/cover.png?w=500\u0026q=80"
-                                     ]
-                 },
-                 {
-                     "id":  "morph_124118",
-                     "title":  "herobrine morph",
-                     "subtitle":  "Minecraft Bedrock Addon",
-                     "category":  "morph",
-                     "mcpeVersion":  "1.20 - 1.21+",
-                     "fileSize":  "1.3 KB",
-                     "rating":  3.8,
-                     "downloads":  "17K",
-                     "author":  "TCreator",
-                     "thumbnailUrl":  "https://mcaddonspe.store/uploads/covers/herobrine-morph/cover.png?w=500\u0026q=80",
-                     "bannerUrl":  "https://mcaddonspe.store/uploads/covers/herobrine-morph/cover.png?w=500\u0026q=80",
-                     "downloadUrl":  "https://mcaddonspe.store/uploads/files/herobrine-morph/herobrine-morph.mcaddon",
-                     "isFeatured":  true,
-                     "isTrending":  false,
-                     "isNew":  true,
-                     "description":  "herobrine morph for MCPE Bedrock.",
-                     "features":  [
-                                      "Direct 1-Click High Speed Download for MCPE",
-                                      "Unique Custom Models \u0026 Morphing Abilities",
-                                      "Survival Friendly \u0026 Multiplayer Compatible",
-                                      "Instant Auto-Import directly into Minecraft PE"
-                                  ],
-                     "requirements":  [
-                                          "Minecraft PE / Bedrock Edition 1.20+",
-                                          "Enable Experimental Gameplay in World Settings"
-                                      ],
-                     "installationSteps":  [
-                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
-                                               "Select MCPE from the Open With dialog to import automatically",
-                                               "Activate Resource \u0026 Behavior packs in your World Settings"
-                                           ],
-                     "screenshots":  [
-                                         "https://mcaddonspe.store/uploads/covers/herobrine-morph/cover.png?w=500\u0026q=80"
-                                     ]
-                 },
-                 {
-                     "id":  "morph_34497",
-                     "title":  "Cda\u0027s Morph [BETA]",
-                     "subtitle":  "Minecraft Bedrock Addon",
-                     "category":  "morph",
-                     "mcpeVersion":  "1.20 - 1.21+",
-                     "fileSize":  "1.2 KB",
-                     "rating":  4.3,
-                     "downloads":  "17K",
-                     "author":  "cda94581",
-                     "thumbnailUrl":  "https://mcaddonspe.store/uploads/covers/cdas-morph/cover.png?w=500\u0026q=80",
-                     "bannerUrl":  "https://mcaddonspe.store/uploads/covers/cdas-morph/cover.png?w=500\u0026q=80",
-                     "downloadUrl":  "https://mcaddonspe.store/uploads/files/cdas-morph/cdas-morph.mcaddon",
-                     "isFeatured":  true,
-                     "isTrending":  true,
-                     "isNew":  false,
-                     "description":  "Cda\u0027s Morph [BETA] for MCPE Bedrock.",
-                     "features":  [
-                                      "Direct 1-Click High Speed Download for MCPE",
-                                      "Unique Custom Models \u0026 Morphing Abilities",
-                                      "Survival Friendly \u0026 Multiplayer Compatible",
-                                      "Instant Auto-Import directly into Minecraft PE"
-                                  ],
-                     "requirements":  [
-                                          "Minecraft PE / Bedrock Edition 1.20+",
-                                          "Enable Experimental Gameplay in World Settings"
-                                      ],
-                     "installationSteps":  [
-                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
-                                               "Select MCPE from the Open With dialog to import automatically",
-                                               "Activate Resource \u0026 Behavior packs in your World Settings"
-                                           ],
-                     "screenshots":  [
-                                         "https://mcaddonspe.store/uploads/covers/cdas-morph/cover.png?w=500\u0026q=80"
-                                     ]
-                 },
-                 {
-                     "id":  "morph_68360",
-                     "title":  "Morph Machine",
-                     "subtitle":  "Minecraft Bedrock Addon",
-                     "category":  "morph",
-                     "mcpeVersion":  "1.20 - 1.21+",
-                     "fileSize":  "1.3 KB",
-                     "rating":  4.7,
-                     "downloads":  "16K",
-                     "author":  "Killercraft CPM",
-                     "thumbnailUrl":  "https://mcaddonspe.store/uploads/covers/morph-machine-map-1/cover.png?w=500\u0026q=80",
-                     "bannerUrl":  "https://mcaddonspe.store/uploads/covers/morph-machine-map-1/cover.png?w=500\u0026q=80",
-                     "downloadUrl":  "https://mcaddonspe.store/uploads/files/morph-machine-map-1/morph-machine-map-1.mcaddon",
-                     "isFeatured":  true,
-                     "isTrending":  false,
-                     "isNew":  false,
-                     "description":  "Morph Machine for MCPE Bedrock.",
-                     "features":  [
-                                      "Direct 1-Click High Speed Download for MCPE",
-                                      "Unique Custom Models \u0026 Morphing Abilities",
-                                      "Survival Friendly \u0026 Multiplayer Compatible",
-                                      "Instant Auto-Import directly into Minecraft PE"
-                                  ],
-                     "requirements":  [
-                                          "Minecraft PE / Bedrock Edition 1.20+",
-                                          "Enable Experimental Gameplay in World Settings"
-                                      ],
-                     "installationSteps":  [
-                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
-                                               "Select MCPE from the Open With dialog to import automatically",
-                                               "Activate Resource \u0026 Behavior packs in your World Settings"
-                                           ],
-                     "screenshots":  [
-                                         "https://mcaddonspe.store/uploads/covers/morph-machine-map-1/cover.png?w=500\u0026q=80"
-                                     ]
-                 },
-                 {
-                     "id":  "morph_109879",
-                     "title":  "Stickman Morph Addon",
-                     "subtitle":  "Minecraft Bedrock Addon",
-                     "category":  "morph",
-                     "mcpeVersion":  "1.20 - 1.21+",
-                     "fileSize":  "1.3 KB",
-                     "rating":  3.6,
-                     "downloads":  "17K",
-                     "author":  "Flappyguy",
-                     "thumbnailUrl":  "https://mcaddonspe.store/uploads/covers/stickman-morph-addon/cover.png?w=500\u0026q=80",
-                     "bannerUrl":  "https://mcaddonspe.store/uploads/covers/stickman-morph-addon/cover.png?w=500\u0026q=80",
-                     "downloadUrl":  "https://mcaddonspe.store/uploads/files/stickman-morph-addon/stickman-morph-addon.mcaddon",
-                     "isFeatured":  false,
-                     "isTrending":  true,
-                     "isNew":  true,
-                     "description":  "Stickman Morph Addon for MCPE Bedrock.",
-                     "features":  [
-                                      "Direct 1-Click High Speed Download for MCPE",
-                                      "Unique Custom Models \u0026 Morphing Abilities",
-                                      "Survival Friendly \u0026 Multiplayer Compatible",
-                                      "Instant Auto-Import directly into Minecraft PE"
-                                  ],
-                     "requirements":  [
-                                          "Minecraft PE / Bedrock Edition 1.20+",
-                                          "Enable Experimental Gameplay in World Settings"
-                                      ],
-                     "installationSteps":  [
-                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
-                                               "Select MCPE from the Open With dialog to import automatically",
-                                               "Activate Resource \u0026 Behavior packs in your World Settings"
-                                           ],
-                     "screenshots":  [
-                                         "https://mcaddonspe.store/uploads/covers/stickman-morph-addon/cover.png?w=500\u0026q=80"
-                                     ]
-                 },
-                 {
-                     "id":  "morph_116798",
+                     "id":  "forge_morph_250112",
                      "title":  "AG\u0027s Morph Mobs",
                      "subtitle":  "Minecraft Bedrock Addon",
                      "category":  "morph",
                      "mcpeVersion":  "1.20 - 1.21+",
-                     "fileSize":  "1.2 KB",
+                     "fileSize":  "15 MB",
                      "rating":  3.7,
-                     "downloads":  "17K",
+                     "downloads":  "158K",
                      "author":  "Boston PE Addons",
-                     "thumbnailUrl":  "https://mcaddonspe.store/uploads/covers/ag-morph-mobs/cover.png?w=500\u0026q=80",
-                     "bannerUrl":  "https://mcaddonspe.store/uploads/covers/ag-morph-mobs/cover.png?w=500\u0026q=80",
-                     "downloadUrl":  "https://mcaddonspe.store/uploads/files/ag-morph-mobs/ag-morph-mobs.mcaddon",
-                     "isFeatured":  false,
+                     "thumbnailUrl":  "https://media.forgecdn.net/attachments/1746/252/picsart_26-06-20_16-13-04-675-png.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://media.forgecdn.net/attachments/1746/252/picsart_26-06-20_16-13-04-675-png.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/ag-morph-mobs.mcaddon",
+                     "isFeatured":  true,
                      "isTrending":  false,
                      "isNew":  false,
-                     "description":  "AG\u0027s Morph Mobs for MCPE Bedrock.",
+                     "description":  "Ever wanted to stalk the night as a creeper or soar through the sky as a majestic eagle? AG\u0027s Morph Mobs makes it possible!This addon grants you the power of transformation! Wit...",
                      "features":  [
-                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Direct High-Speed Download via ForgeCDN",
                                       "Unique Custom Models \u0026 Morphing Abilities",
                                       "Survival Friendly \u0026 Multiplayer Compatible",
                                       "Instant Auto-Import directly into Minecraft PE"
@@ -276,316 +60,28 @@
                                                "Activate Resource \u0026 Behavior packs in your World Settings"
                                            ],
                      "screenshots":  [
-                                         "https://mcaddonspe.store/uploads/covers/ag-morph-mobs/cover.png?w=500\u0026q=80"
+                                         "https://media.forgecdn.net/attachments/1746/252/picsart_26-06-20_16-13-04-675-png.png?w=500\u0026q=80"
                                      ]
                  },
                  {
-                     "id":  "morph_95220",
-                     "title":  "The Ultimate Morph",
+                     "id":  "forge_morph_250132",
+                     "title":  "Titan Camera Monster Titan Camera Monster ADD-ON S25 + [MORPH]",
                      "subtitle":  "Minecraft Bedrock Addon",
                      "category":  "morph",
                      "mcpeVersion":  "1.20 - 1.21+",
-                     "fileSize":  "1.3 KB",
-                     "rating":  4,
-                     "downloads":  "17K",
-                     "author":  "Youtube Dante Gaming",
-                     "thumbnailUrl":  "https://mcaddonspe.store/uploads/covers/the-ultimate-morph/cover.png?w=500\u0026q=80",
-                     "bannerUrl":  "https://mcaddonspe.store/uploads/covers/the-ultimate-morph/cover.png?w=500\u0026q=80",
-                     "downloadUrl":  "https://mcaddonspe.store/uploads/files/the-ultimate-morph/the-ultimate-morph.mcaddon",
-                     "isFeatured":  false,
-                     "isTrending":  true,
-                     "isNew":  false,
-                     "description":  "The Ultimate Morph for MCPE Bedrock.",
-                     "features":  [
-                                      "Direct 1-Click High Speed Download for MCPE",
-                                      "Unique Custom Models \u0026 Morphing Abilities",
-                                      "Survival Friendly \u0026 Multiplayer Compatible",
-                                      "Instant Auto-Import directly into Minecraft PE"
-                                  ],
-                     "requirements":  [
-                                          "Minecraft PE / Bedrock Edition 1.20+",
-                                          "Enable Experimental Gameplay in World Settings"
-                                      ],
-                     "installationSteps":  [
-                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
-                                               "Select MCPE from the Open With dialog to import automatically",
-                                               "Activate Resource \u0026 Behavior packs in your World Settings"
-                                           ],
-                     "screenshots":  [
-                                         "https://mcaddonspe.store/uploads/covers/the-ultimate-morph/cover.png?w=500\u0026q=80"
-                                     ]
-                 },
-                 {
-                     "id":  "morph_4346001602096",
-                     "title":  "MorphX Premium",
-                     "subtitle":  "Minecraft Bedrock Addon",
-                     "category":  "morph",
-                     "mcpeVersion":  "1.20 - 1.21+",
-                     "fileSize":  "164.2 KB",
-                     "rating":  4.7,
-                     "downloads":  "15K",
-                     "author":  "Kareo Gamerz",
-                     "thumbnailUrl":  "https://mcaddonspe.store/uploads/covers/morphx-premium/cover.png?w=500\u0026q=80",
-                     "bannerUrl":  "https://mcaddonspe.store/uploads/covers/morphx-premium/cover.png?w=500\u0026q=80",
-                     "downloadUrl":  "https://mcaddonspe.store/uploads/files/morphx-premium/MorphX_Premium_V_1.1.0.mcaddon",
-                     "isFeatured":  false,
-                     "isTrending":  false,
-                     "isNew":  true,
-                     "description":  "Transform into legendary Minecraft entities instantly with MorphX Premium! Use the Morph Menu to become Herobrine, Null, Entity 303, Entity 404, Dreadlord, and more. Enjoy unique powers, lightning effects, particles, and full multiplayer support.",
-                     "features":  [
-                                      "Direct 1-Click High Speed Download for MCPE",
-                                      "Unique Custom Models \u0026 Morphing Abilities",
-                                      "Survival Friendly \u0026 Multiplayer Compatible",
-                                      "Instant Auto-Import directly into Minecraft PE"
-                                  ],
-                     "requirements":  [
-                                          "Minecraft PE / Bedrock Edition 1.20+",
-                                          "Enable Experimental Gameplay in World Settings"
-                                      ],
-                     "installationSteps":  [
-                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
-                                               "Select MCPE from the Open With dialog to import automatically",
-                                               "Activate Resource \u0026 Behavior packs in your World Settings"
-                                           ],
-                     "screenshots":  [
-                                         "https://mcaddonspe.store/uploads/covers/morphx-premium/cover.png?w=500\u0026q=80"
-                                     ]
-                 },
-                 {
-                     "id":  "morph_4346001670075",
-                     "title":  "Morph Into Long Neck Horse",
-                     "subtitle":  "Minecraft Bedrock Addon",
-                     "category":  "morph",
-                     "mcpeVersion":  "1.20 - 1.21+",
-                     "fileSize":  "1.6 MB",
-                     "rating":  4.7,
-                     "downloads":  "3K",
-                     "author":  "Hischa",
-                     "thumbnailUrl":  "https://mcaddonspe.store/uploads/covers/morph-into-long-neck-horse/cover.png?w=500\u0026q=80",
-                     "bannerUrl":  "https://mcaddonspe.store/uploads/covers/morph-into-long-neck-horse/cover.png?w=500\u0026q=80",
-                     "downloadUrl":  "https://mcaddonspe.store/uploads/files/morph-into-long-neck-horse/Morph_Into_Long_Neck_Horse_V1.1.2.mcaddon",
-                     "isFeatured":  false,
-                     "isTrending":  true,
-                     "isNew":  false,
-                     "description":  "In this addon, you can morph into 5 Long Neck Horse characters, ranging from Phase 1 to Phase 5.",
-                     "features":  [
-                                      "Direct 1-Click High Speed Download for MCPE",
-                                      "Unique Custom Models \u0026 Morphing Abilities",
-                                      "Survival Friendly \u0026 Multiplayer Compatible",
-                                      "Instant Auto-Import directly into Minecraft PE"
-                                  ],
-                     "requirements":  [
-                                          "Minecraft PE / Bedrock Edition 1.20+",
-                                          "Enable Experimental Gameplay in World Settings"
-                                      ],
-                     "installationSteps":  [
-                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
-                                               "Select MCPE from the Open With dialog to import automatically",
-                                               "Activate Resource \u0026 Behavior packs in your World Settings"
-                                           ],
-                     "screenshots":  [
-                                         "https://mcaddonspe.store/uploads/covers/morph-into-long-neck-horse/cover.png?w=500\u0026q=80"
-                                     ]
-                 },
-                 {
-                     "id":  "morph_4346001734166",
-                     "title":  "Morph Mastery: Block Hide \u0026 Seek(Prop Hunt for Bedrock)",
-                     "subtitle":  "Minecraft Bedrock Addon",
-                     "category":  "morph",
-                     "mcpeVersion":  "1.20 - 1.21+",
-                     "fileSize":  "1.4 MB",
-                     "rating":  5,
-                     "downloads":  "3K",
-                     "author":  "JunieClientDev",
-                     "thumbnailUrl":  "https://mcaddonspe.store/uploads/covers/morph-mastery-block-hide-and-seek/cover.png?w=500\u0026q=80",
-                     "bannerUrl":  "https://mcaddonspe.store/uploads/covers/morph-mastery-block-hide-and-seek/cover.png?w=500\u0026q=80",
-                     "downloadUrl":  "https://mcaddonspe.store/uploads/files/morph-mastery-block-hide-and-seek/Morph_Mastery-Prop-Hunt.mcaddon",
-                     "isFeatured":  false,
-                     "isTrending":  false,
-                     "isNew":  false,
-                     "description":  "Mine any block to collect it as a disguise, then become it! Run around as a block with your player fully hidden, hold still 5 seconds to snap into the world as a real block, and play hide and seek with friends. 390 blocks to collect.",
-                     "features":  [
-                                      "Direct 1-Click High Speed Download for MCPE",
-                                      "Unique Custom Models \u0026 Morphing Abilities",
-                                      "Survival Friendly \u0026 Multiplayer Compatible",
-                                      "Instant Auto-Import directly into Minecraft PE"
-                                  ],
-                     "requirements":  [
-                                          "Minecraft PE / Bedrock Edition 1.20+",
-                                          "Enable Experimental Gameplay in World Settings"
-                                      ],
-                     "installationSteps":  [
-                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
-                                               "Select MCPE from the Open With dialog to import automatically",
-                                               "Activate Resource \u0026 Behavior packs in your World Settings"
-                                           ],
-                     "screenshots":  [
-                                         "https://mcaddonspe.store/uploads/covers/morph-mastery-block-hide-and-seek/cover.png?w=500\u0026q=80"
-                                     ]
-                 },
-                 {
-                     "id":  "morph_4346001390207",
-                     "title":  "MorphX",
-                     "subtitle":  "Minecraft Bedrock Addon",
-                     "category":  "morph",
-                     "mcpeVersion":  "1.20 - 1.21+",
-                     "fileSize":  "1.7 MB",
-                     "rating":  4.7,
-                     "downloads":  "219K",
-                     "author":  "Kareo Gamerz",
-                     "thumbnailUrl":  "https://mcaddonspe.store/uploads/covers/morphx/cover.jpg?w=500\u0026q=80",
-                     "bannerUrl":  "https://mcaddonspe.store/uploads/covers/morphx/cover.jpg?w=500\u0026q=80",
-                     "downloadUrl":  "https://mcaddonspe.store/uploads/files/morphx/MorphX_V1.1.2.mcaddon",
-                     "isFeatured":  false,
-                     "isTrending":  true,
-                     "isNew":  true,
-                     "description":  "A Bedrock morph add-on that lets players transform into 40+ creatures, machines, and fantasy entities by unlocking morphs using the Soul Stone.”",
-                     "features":  [
-                                      "Direct 1-Click High Speed Download for MCPE",
-                                      "Unique Custom Models \u0026 Morphing Abilities",
-                                      "Survival Friendly \u0026 Multiplayer Compatible",
-                                      "Instant Auto-Import directly into Minecraft PE"
-                                  ],
-                     "requirements":  [
-                                          "Minecraft PE / Bedrock Edition 1.20+",
-                                          "Enable Experimental Gameplay in World Settings"
-                                      ],
-                     "installationSteps":  [
-                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
-                                               "Select MCPE from the Open With dialog to import automatically",
-                                               "Activate Resource \u0026 Behavior packs in your World Settings"
-                                           ],
-                     "screenshots":  [
-                                         "https://mcaddonspe.store/uploads/covers/morphx/cover.jpg?w=500\u0026q=80"
-                                     ]
-                 },
-                 {
-                     "id":  "morph_4346001311971",
-                     "title":  "The Morph Parkour",
-                     "subtitle":  "Minecraft Bedrock Addon",
-                     "category":  "maps",
-                     "mcpeVersion":  "1.20 - 1.21+",
-                     "fileSize":  "11.0 MB",
-                     "rating":  4.8,
-                     "downloads":  "38K",
-                     "author":  "YouTube: Dante Gaming",
-                     "thumbnailUrl":  "https://mcaddonspe.store/uploads/covers/the-morph-parkour/cover.jpg?w=500\u0026q=80",
-                     "bannerUrl":  "https://mcaddonspe.store/uploads/covers/the-morph-parkour/cover.jpg?w=500\u0026q=80",
-                     "downloadUrl":  "https://mcaddonspe.store/uploads/files/the-morph-parkour/The_Morph_Parkour_v1.1.mcworld",
-                     "isFeatured":  false,
-                     "isTrending":  false,
-                     "isNew":  false,
-                     "description":  "The Morph Parkour brings a brand‑new twist to parkour maps in Minecraft. Morph into different mobs each level and harness their unique abilities to overcome ever‑changing challenges",
-                     "features":  [
-                                      "Direct 1-Click High Speed Download for MCPE",
-                                      "Unique Custom Models \u0026 Morphing Abilities",
-                                      "Survival Friendly \u0026 Multiplayer Compatible",
-                                      "Instant Auto-Import directly into Minecraft PE"
-                                  ],
-                     "requirements":  [
-                                          "Minecraft PE / Bedrock Edition 1.20+",
-                                          "Enable Experimental Gameplay in World Settings"
-                                      ],
-                     "installationSteps":  [
-                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
-                                               "Select MCPE from the Open With dialog to import automatically",
-                                               "Activate Resource \u0026 Behavior packs in your World Settings"
-                                           ],
-                     "screenshots":  [
-                                         "https://mcaddonspe.store/uploads/covers/the-morph-parkour/cover.jpg?w=500\u0026q=80"
-                                     ]
-                 },
-                 {
-                     "id":  "morph_4346001622268",
-                     "title":  "Morph Into Verity, Falsity, Cruelity and Lovity",
-                     "subtitle":  "Minecraft Bedrock Addon",
-                     "category":  "morph",
-                     "mcpeVersion":  "1.20 - 1.21+",
-                     "fileSize":  "11.9 MB",
-                     "rating":  4.7,
-                     "downloads":  "81K",
-                     "author":  "Hischa",
-                     "thumbnailUrl":  "https://mcaddonspe.store/uploads/covers/morph-into-verity-falsity-cruelity-and-lovity/cover.png?w=500\u0026q=80",
-                     "bannerUrl":  "https://mcaddonspe.store/uploads/covers/morph-into-verity-falsity-cruelity-and-lovity/cover.png?w=500\u0026q=80",
-                     "downloadUrl":  "https://mcaddonspe.store/uploads/files/morph-into-verity-falsity-cruelity-and-lovity/Morph_Into_Verity_V1.1.4.mcaddon",
-                     "isFeatured":  false,
-                     "isTrending":  true,
-                     "isNew":  false,
-                     "description":  "Transform into 35 characters from Verity, Falsity, Lovity, Cruelity and Verity Fusion.",
-                     "features":  [
-                                      "Direct 1-Click High Speed Download for MCPE",
-                                      "Unique Custom Models \u0026 Morphing Abilities",
-                                      "Survival Friendly \u0026 Multiplayer Compatible",
-                                      "Instant Auto-Import directly into Minecraft PE"
-                                  ],
-                     "requirements":  [
-                                          "Minecraft PE / Bedrock Edition 1.20+",
-                                          "Enable Experimental Gameplay in World Settings"
-                                      ],
-                     "installationSteps":  [
-                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
-                                               "Select MCPE from the Open With dialog to import automatically",
-                                               "Activate Resource \u0026 Behavior packs in your World Settings"
-                                           ],
-                     "screenshots":  [
-                                         "https://mcaddonspe.store/uploads/covers/morph-into-verity-falsity-cruelity-and-lovity/cover.png?w=500\u0026q=80"
-                                     ]
-                 },
-                 {
-                     "id":  "morph_116873",
-                     "title":  "Item Morph Addon",
-                     "subtitle":  "Minecraft Bedrock Addon",
-                     "category":  "morph",
-                     "mcpeVersion":  "1.20 - 1.21+",
-                     "fileSize":  "101.2 KB",
+                     "fileSize":  "15 MB",
                      "rating":  3.6,
-                     "downloads":  "51K",
-                     "author":  "Flappyguy",
-                     "thumbnailUrl":  "https://mcaddonspe.store/uploads/covers/item-morph-addon-flappy/cover.png?w=500\u0026q=80",
-                     "bannerUrl":  "https://mcaddonspe.store/uploads/covers/item-morph-addon-flappy/cover.png?w=500\u0026q=80",
-                     "downloadUrl":  "https://mcaddonspe.store/uploads/files/item-morph-addon-flappy/Item_Morph_Tulips_And_Pale_Oak_Sapling_Update.mcaddon",
-                     "isFeatured":  false,
-                     "isTrending":  false,
-                     "isNew":  true,
-                     "description":  "An Addon Where You Can Morph Into Items!! ",
-                     "features":  [
-                                      "Direct 1-Click High Speed Download for MCPE",
-                                      "Unique Custom Models \u0026 Morphing Abilities",
-                                      "Survival Friendly \u0026 Multiplayer Compatible",
-                                      "Instant Auto-Import directly into Minecraft PE"
-                                  ],
-                     "requirements":  [
-                                          "Minecraft PE / Bedrock Edition 1.20+",
-                                          "Enable Experimental Gameplay in World Settings"
-                                      ],
-                     "installationSteps":  [
-                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
-                                               "Select MCPE from the Open With dialog to import automatically",
-                                               "Activate Resource \u0026 Behavior packs in your World Settings"
-                                           ],
-                     "screenshots":  [
-                                         "https://mcaddonspe.store/uploads/covers/item-morph-addon-flappy/cover.png?w=500\u0026q=80"
-                                     ]
-                 },
-                 {
-                     "id":  "morph_4346001597690",
-                     "title":  "Structure Morph",
-                     "subtitle":  "Minecraft Bedrock Addon",
-                     "category":  "morph",
-                     "mcpeVersion":  "1.20 - 1.21+",
-                     "fileSize":  "95.2 KB",
-                     "rating":  4.7,
-                     "downloads":  "12K",
-                     "author":  "Flappyguy",
-                     "thumbnailUrl":  "https://mcaddonspe.store/uploads/covers/structure-morph-flappyguy-creation-lol/cover.png?w=500\u0026q=80",
-                     "bannerUrl":  "https://mcaddonspe.store/uploads/covers/structure-morph-flappyguy-creation-lol/cover.png?w=500\u0026q=80",
-                     "downloadUrl":  "https://mcaddonspe.store/uploads/files/structure-morph-flappyguy-creation-lol/Structure_Morph_Jungle_Tree_And_Wither_Storm_Update.mcaddon",
-                     "isFeatured":  false,
+                     "downloads":  "10K",
+                     "author":  "G DRAW-",
+                     "thumbnailUrl":  "https://media.forgecdn.net/attachments/1985/33/1000812760-jpg.jpg?w=500\u0026q=80",
+                     "bannerUrl":  "https://media.forgecdn.net/attachments/1985/33/1000812760-jpg.jpg?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/skibidi-toilet-add-on-s25-morph.mcaddon",
+                     "isFeatured":  true,
                      "isTrending":  true,
                      "isNew":  false,
-                     "description":  "An Addon Where You Can Morph Into Structures Such As A Village House, Desert Well, Fossil And Many More!",
+                     "description":  "Dive into the chaotic world of Skibidi Toilet in Minecraft! This addon brings your favorite characters from the latest Skibidi Toilet series into the game. Play as or morph into...",
                      "features":  [
-                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Direct High-Speed Download via ForgeCDN",
                                       "Unique Custom Models \u0026 Morphing Abilities",
                                       "Survival Friendly \u0026 Multiplayer Compatible",
                                       "Instant Auto-Import directly into Minecraft PE"
@@ -600,28 +96,28 @@
                                                "Activate Resource \u0026 Behavior packs in your World Settings"
                                            ],
                      "screenshots":  [
-                                         "https://mcaddonspe.store/uploads/covers/structure-morph-flappyguy-creation-lol/cover.png?w=500\u0026q=80"
+                                         "https://media.forgecdn.net/attachments/1985/33/1000812760-jpg.jpg?w=500\u0026q=80"
                                      ]
                  },
                  {
-                     "id":  "morph_4346001744054",
-                     "title":  "Morph Into Dinosaurs: Primal Dominion",
+                     "id":  "forge_morph_254951",
+                     "title":  "herobrine morph",
                      "subtitle":  "Minecraft Bedrock Addon",
                      "category":  "morph",
                      "mcpeVersion":  "1.20 - 1.21+",
-                     "fileSize":  "26.0 MB",
-                     "rating":  5,
-                     "downloads":  "2K",
-                     "author":  "JunieClientDev",
-                     "thumbnailUrl":  "https://mcaddonspe.store/uploads/covers/morph-into-dinosaurs-primal-dominion/cover.png?w=500\u0026q=80",
-                     "bannerUrl":  "https://mcaddonspe.store/uploads/covers/morph-into-dinosaurs-primal-dominion/cover.png?w=500\u0026q=80",
-                     "downloadUrl":  "https://mcaddonspe.store/uploads/files/morph-into-dinosaurs-primal-dominion/Morph_Into_Dinosaurs_Primal_Dominion__5_.mcaddon",
-                     "isFeatured":  false,
+                     "fileSize":  "15 MB",
+                     "rating":  3.8,
+                     "downloads":  "19K",
+                     "author":  "TCreator",
+                     "thumbnailUrl":  "https://media.forgecdn.net/attachments/1195/776/picsart_25-05-20_18-29-28-487-jpg.jpg?w=500\u0026q=80",
+                     "bannerUrl":  "https://media.forgecdn.net/attachments/1195/776/picsart_25-05-20_18-29-28-487-jpg.jpg?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/herobrine-morph.mcaddon",
+                     "isFeatured":  true,
                      "isTrending":  false,
-                     "isNew":  false,
-                     "description":  "50+ Dinosaurs to  face, to survive, to defeat, and  morph in to! ",
+                     "isNew":  true,
+                     "description":  "Hi everyone, i am the creator, today I\u0027ll be creating a bosses addon. you don\u0027t need to activate experimental to install this addon. we will try our best to satisfy your surviva...",
                      "features":  [
-                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Direct High-Speed Download via ForgeCDN",
                                       "Unique Custom Models \u0026 Morphing Abilities",
                                       "Survival Friendly \u0026 Multiplayer Compatible",
                                       "Instant Auto-Import directly into Minecraft PE"
@@ -636,28 +132,28 @@
                                                "Activate Resource \u0026 Behavior packs in your World Settings"
                                            ],
                      "screenshots":  [
-                                         "https://mcaddonspe.store/uploads/covers/morph-into-dinosaurs-primal-dominion/cover.png?w=500\u0026q=80"
+                                         "https://media.forgecdn.net/attachments/1195/776/picsart_25-05-20_18-29-28-487-jpg.jpg?w=500\u0026q=80"
                                      ]
                  },
                  {
-                     "id":  "morph_4346001581923",
+                     "id":  "forge_morph_1581923",
                      "title":  "Morph Into Mobs",
                      "subtitle":  "Minecraft Bedrock Addon",
                      "category":  "morph",
                      "mcpeVersion":  "1.20 - 1.21+",
-                     "fileSize":  "16.0 MB",
+                     "fileSize":  "15 MB",
                      "rating":  4.1,
-                     "downloads":  "209K",
+                     "downloads":  "55K",
                      "author":  "YouTube: Dante Gaming",
-                     "thumbnailUrl":  "https://mcaddonspe.store/uploads/covers/morph-into-mobs/cover.png?w=500\u0026q=80",
-                     "bannerUrl":  "https://mcaddonspe.store/uploads/covers/morph-into-mobs/cover.png?w=500\u0026q=80",
-                     "downloadUrl":  "https://mcaddonspe.store/uploads/files/morph-into-mobs/Morph_Itno_Mobs_v1.2.mcaddon",
-                     "isFeatured":  false,
+                     "thumbnailUrl":  "https://media.forgecdn.net/attachments/1746/252/picsart_26-06-20_16-13-04-675-png.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://media.forgecdn.net/attachments/1746/252/picsart_26-06-20_16-13-04-675-png.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/morph-into-mobs.mcaddon",
+                     "isFeatured":  true,
                      "isTrending":  true,
-                     "isNew":  true,
+                     "isNew":  false,
                      "description":  "Want to become cute Baby Mobs or Custom Mobs in Minecraft PE? With Morph Into Mobs, you can transform into many different mobs and use their special abilities.",
                      "features":  [
-                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Direct High-Speed Download via ForgeCDN",
                                       "Unique Custom Models \u0026 Morphing Abilities",
                                       "Survival Friendly \u0026 Multiplayer Compatible",
                                       "Instant Auto-Import directly into Minecraft PE"
@@ -672,100 +168,172 @@
                                                "Activate Resource \u0026 Behavior packs in your World Settings"
                                            ],
                      "screenshots":  [
-                                         "https://mcaddonspe.store/uploads/covers/morph-into-mobs/cover.png?w=500\u0026q=80"
+                                         "https://media.forgecdn.net/attachments/1746/252/picsart_26-06-20_16-13-04-675-png.png?w=500\u0026q=80"
                                      ]
                  },
                  {
-                     "id":  "morph_4346001712488",
+                     "id":  "forge_morph_238381",
+                     "title":  "Hide and Seek Morph!",
+                     "subtitle":  "Minecraft Bedrock Addon",
+                     "category":  "morph",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  3.7,
+                     "downloads":  "138K",
+                     "author":  "ELRandomMan",
+                     "thumbnailUrl":  "https://media.forgecdn.net/attachments/1874/617/screenshot-2026-08-17-223637-png.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://media.forgecdn.net/attachments/1874/617/screenshot-2026-08-17-223637-png.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/hide-and-seek-map.mcaddon",
+                     "isFeatured":  true,
+                     "isTrending":  false,
+                     "isNew":  false,
+                     "description":  "In this map you will be playing a hide and seek game, but not any ordinary hide and seek game. Here you will be hiding as either a villager or a cow (depending on the map you ch...",
+                     "features":  [
+                                      "Direct High-Speed Download via ForgeCDN",
+                                      "Unique Custom Models \u0026 Morphing Abilities",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://media.forgecdn.net/attachments/1874/617/screenshot-2026-08-17-223637-png.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "forge_morph_107074",
+                     "title":  "Morph Addon Official 1.0",
+                     "subtitle":  "Minecraft Bedrock Addon",
+                     "category":  "morph",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  3.7,
+                     "downloads":  "1.6M",
+                     "author":  "Fraxx01",
+                     "thumbnailUrl":  "https://media.forgecdn.net/attachments/1874/619/screenshot-2026-08-17-223826-png.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://media.forgecdn.net/attachments/1874/619/screenshot-2026-08-17-223826-png.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/morph-addon.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  true,
+                     "isNew":  true,
+                     "description":  "Have you ever dreamed of being able to play as a zombie or a skeleton and not the usual steve? Have you ever dreamed of being able to swim with the freedom of a drowned or to wa...",
+                     "features":  [
+                                      "Direct High-Speed Download via ForgeCDN",
+                                      "Unique Custom Models \u0026 Morphing Abilities",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://media.forgecdn.net/attachments/1874/619/screenshot-2026-08-17-223826-png.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "forge_morph_228529",
+                     "title":  "Morph Into Mobs [v1.0.1]",
+                     "subtitle":  "Minecraft Bedrock Addon",
+                     "category":  "morph",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  3.5,
+                     "downloads":  "26K",
+                     "author":  "DouarMC",
+                     "thumbnailUrl":  "https://media.forgecdn.net/attachments/description/1612795/description_89d5451b-802d-4068-b9cb-e20a3cdc5355.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://media.forgecdn.net/attachments/description/1612795/description_89d5451b-802d-4068-b9cb-e20a3cdc5355.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/douarmc-morph-into-mobs.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  false,
+                     "isNew":  false,
+                     "description":  "Do you want a script that allows you to morphing into Mobs ? If you answered yes, you will like this pack ! This one add a new item that transforms you into Minecraft Mobs !\n",
+                     "features":  [
+                                      "Direct High-Speed Download via ForgeCDN",
+                                      "Unique Custom Models \u0026 Morphing Abilities",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://media.forgecdn.net/attachments/description/1612795/description_89d5451b-802d-4068-b9cb-e20a3cdc5355.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "forge_morph_145518",
+                     "title":  "Cda\u0027s Morph [BETA]",
+                     "subtitle":  "Minecraft Bedrock Addon",
+                     "category":  "morph",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  4.3,
+                     "downloads":  "372K",
+                     "author":  "cda94581",
+                     "thumbnailUrl":  "https://media.forgecdn.net/attachments/1905/684/64ecb16f-5acd-459e-b721-2175ae50deba-jpeg.jpeg?w=500\u0026q=80",
+                     "bannerUrl":  "https://media.forgecdn.net/attachments/1905/684/64ecb16f-5acd-459e-b721-2175ae50deba-jpeg.jpeg?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/cdas-morph.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  true,
+                     "isNew":  false,
+                     "description":  "This Add-on is in BETA, and there will be bugsCda’s Morph Add-on brings the popular Java Edition Morph Mod onto Bedrock Edition! This currently supports all the mobs as stated b...",
+                     "features":  [
+                                      "Direct High-Speed Download via ForgeCDN",
+                                      "Unique Custom Models \u0026 Morphing Abilities",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://media.forgecdn.net/attachments/1905/684/64ecb16f-5acd-459e-b721-2175ae50deba-jpeg.jpeg?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "forge_morph_1712488",
                      "title":  "Mob Morph",
                      "subtitle":  "Minecraft Bedrock Addon",
                      "category":  "morph",
                      "mcpeVersion":  "1.20 - 1.21+",
-                     "fileSize":  "49.6 KB",
-                     "rating":  4.5,
-                     "downloads":  "17K",
+                     "fileSize":  "15 MB",
+                     "rating":  4.7,
+                     "downloads":  "4K",
                      "author":  "Alexios123",
-                     "thumbnailUrl":  "https://mcaddonspe.store/uploads/covers/mob-morph/cover.jpg?w=500\u0026q=80",
-                     "bannerUrl":  "https://mcaddonspe.store/uploads/covers/mob-morph/cover.jpg?w=500\u0026q=80",
-                     "downloadUrl":  "https://mcaddonspe.store/uploads/files/mob-morph/mob-morph.mcaddon",
-                     "isFeatured":  false,
-                     "isTrending":  false,
-                     "isNew":  false,
-                     "description":  "Mob Morph is a Minecraft Bedrock addon that lets you morph into any mob.",
-                     "features":  [
-                                      "Direct 1-Click High Speed Download for MCPE",
-                                      "Unique Custom Models \u0026 Morphing Abilities",
-                                      "Survival Friendly \u0026 Multiplayer Compatible",
-                                      "Instant Auto-Import directly into Minecraft PE"
-                                  ],
-                     "requirements":  [
-                                          "Minecraft PE / Bedrock Edition 1.20+",
-                                          "Enable Experimental Gameplay in World Settings"
-                                      ],
-                     "installationSteps":  [
-                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
-                                               "Select MCPE from the Open With dialog to import automatically",
-                                               "Activate Resource \u0026 Behavior packs in your World Settings"
-                                           ],
-                     "screenshots":  [
-                                         "https://mcaddonspe.store/uploads/covers/mob-morph/cover.jpg?w=500\u0026q=80"
-                                     ]
-                 },
-                 {
-                     "id":  "morph_1900101",
-                     "title":  "The Ultimate Morph 2.0 (Mob \u0026 Block Morph)",
-                     "subtitle":  "Minecraft Bedrock Addon",
-                     "category":  "morph",
-                     "mcpeVersion":  "1.20 - 1.21+",
-                     "fileSize":  "11.3 MB",
-                     "rating":  4.9,
-                     "downloads":  "485K",
-                     "author":  "DanteGaming",
-                     "thumbnailUrl":  "https://mcaddonspe.store/uploads/covers/the-ultimate-morph-2-0/cover.webp?w=500\u0026q=80",
-                     "bannerUrl":  "https://mcaddonspe.store/uploads/covers/the-ultimate-morph-2-0/cover.webp?w=500\u0026q=80",
-                     "downloadUrl":  "https://mcaddonspe.store/uploads/files/the-ultimate-morph-2-0/The_Ultimate_Morph_v2.5.mcaddon",
-                     "isFeatured":  false,
-                     "isTrending":  true,
-                     "isNew":  false,
-                     "description":  "Transform into any Minecraft mob, block, item, or boss! Includes DG Menu, Mob Abilities (flight, health, explosions), and DG Solidifier.",
-                     "features":  [
-                                      "Direct 1-Click High Speed Download for MCPE",
-                                      "Unique Custom Models \u0026 Morphing Abilities",
-                                      "Survival Friendly \u0026 Multiplayer Compatible",
-                                      "Instant Auto-Import directly into Minecraft PE"
-                                  ],
-                     "requirements":  [
-                                          "Minecraft PE / Bedrock Edition 1.20+",
-                                          "Enable Experimental Gameplay in World Settings"
-                                      ],
-                     "installationSteps":  [
-                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
-                                               "Select MCPE from the Open With dialog to import automatically",
-                                               "Activate Resource \u0026 Behavior packs in your World Settings"
-                                           ],
-                     "screenshots":  [
-                                         "https://mcaddonspe.store/uploads/covers/the-ultimate-morph-2-0/cover.webp?w=500\u0026q=80"
-                                     ]
-                 },
-                 {
-                     "id":  "morph_1900102",
-                     "title":  "Morphing Bracelet Reborn (Survival Soul Morph)",
-                     "subtitle":  "Minecraft Bedrock Addon",
-                     "category":  "morph",
-                     "mcpeVersion":  "1.20 - 1.21+",
-                     "fileSize":  "1.5 KB",
-                     "rating":  4.8,
-                     "downloads":  "312K",
-                     "author":  "LowEffortMods",
-                     "thumbnailUrl":  "https://mcaddonspe.store/uploads/covers/mbr-morphing-bracelet-reborn/cover.webp?w=500\u0026q=80",
-                     "bannerUrl":  "https://mcaddonspe.store/uploads/covers/mbr-morphing-bracelet-reborn/cover.webp?w=500\u0026q=80",
-                     "downloadUrl":  "https://mcaddonspe.store/uploads/files/mbr-morphing-bracelet-reborn/Morphing_Bracelet_v1.5.mcaddon",
+                     "thumbnailUrl":  "https://media.forgecdn.net/attachments/1985/33/1000812760-jpg.jpg?w=500\u0026q=80",
+                     "bannerUrl":  "https://media.forgecdn.net/attachments/1985/33/1000812760-jpg.jpg?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/mob-morph.mcaddon",
                      "isFeatured":  false,
                      "isTrending":  false,
                      "isNew":  true,
-                     "description":  "Craft the magical Morphing Bracelet in survival mode. Defeat mobs to harvest their souls and morph into them with all powers!",
+                     "description":  "Mob Morph is a Minecraft Bedrock addon that lets you morph into any mob.",
                      "features":  [
-                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Direct High-Speed Download via ForgeCDN",
                                       "Unique Custom Models \u0026 Morphing Abilities",
                                       "Survival Friendly \u0026 Multiplayer Compatible",
                                       "Instant Auto-Import directly into Minecraft PE"
@@ -780,28 +348,28 @@
                                                "Activate Resource \u0026 Behavior packs in your World Settings"
                                            ],
                      "screenshots":  [
-                                         "https://mcaddonspe.store/uploads/covers/mbr-morphing-bracelet-reborn/cover.webp?w=500\u0026q=80"
+                                         "https://media.forgecdn.net/attachments/1985/33/1000812760-jpg.jpg?w=500\u0026q=80"
                                      ]
                  },
                  {
-                     "id":  "morph_1900103",
-                     "title":  "Morph Plus Addon (100+ Mobs)",
+                     "id":  "forge_morph_1270347",
+                     "title":  "The Ultimate Morph 2.0",
                      "subtitle":  "Minecraft Bedrock Addon",
                      "category":  "morph",
                      "mcpeVersion":  "1.20 - 1.21+",
-                     "fileSize":  "1.4 KB",
-                     "rating":  4.9,
-                     "downloads":  "620K",
-                     "author":  "Kareo \u0026 Liuk",
-                     "thumbnailUrl":  "https://mcaddonspe.store/uploads/covers/morph-plus-addon/cover.webp?w=500\u0026q=80",
-                     "bannerUrl":  "https://mcaddonspe.store/uploads/covers/morph-plus-addon/cover.webp?w=500\u0026q=80",
-                     "downloadUrl":  "https://mcaddonspe.store/uploads/files/morph-plus-addon/Morph_Plus_v4.5.mcaddon",
+                     "fileSize":  "15 MB",
+                     "rating":  3.9,
+                     "downloads":  "165K",
+                     "author":  "YouTube: Dante Gaming",
+                     "thumbnailUrl":  "https://media.forgecdn.net/attachments/1195/776/picsart_25-05-20_18-29-28-487-jpg.jpg?w=500\u0026q=80",
+                     "bannerUrl":  "https://media.forgecdn.net/attachments/1195/776/picsart_25-05-20_18-29-28-487-jpg.jpg?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/the-ultimate-morph-2-0.mcaddon",
                      "isFeatured":  false,
                      "isTrending":  true,
                      "isNew":  false,
-                     "description":  "Morph into over 100+ mobs including Warden, Ender Dragon, Wither, Iron Golem, and all hostile/passive creatures.",
+                     "description":  "Want to transform into mobs, blocks, items, furniture, or even anime and gaming characters? With this easy-to-use addon, it\u0027s all possible",
                      "features":  [
-                                      "Direct 1-Click High Speed Download for MCPE",
+                                      "Direct High-Speed Download via ForgeCDN",
                                       "Unique Custom Models \u0026 Morphing Abilities",
                                       "Survival Friendly \u0026 Multiplayer Compatible",
                                       "Instant Auto-Import directly into Minecraft PE"
@@ -816,7 +384,187 @@
                                                "Activate Resource \u0026 Behavior packs in your World Settings"
                                            ],
                      "screenshots":  [
-                                         "https://mcaddonspe.store/uploads/covers/morph-plus-addon/cover.webp?w=500\u0026q=80"
+                                         "https://media.forgecdn.net/attachments/1195/776/picsart_25-05-20_18-29-28-487-jpg.jpg?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "forge_morph_248528",
+                     "title":  "Creepypasta Morph",
+                     "subtitle":  "Minecraft Bedrock Addon",
+                     "category":  "morph",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  3.9,
+                     "downloads":  "4K",
+                     "author":  "CCreepypasta",
+                     "thumbnailUrl":  "https://media.forgecdn.net/attachments/1886/924/screenshot_2026-08-22-20-33-27-542_com-mojang.jpg?w=500\u0026q=80",
+                     "bannerUrl":  "https://media.forgecdn.net/attachments/1886/924/screenshot_2026-08-22-20-33-27-542_com-mojang.jpg?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/creepypasta-morph.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  false,
+                     "isNew":  false,
+                     "description":  "Hi everyone, i am creepypasta specialist and today i will make a scary add-on and jumpy scare add-on. most of my add-on will be creepypasta related. subscribe to me if you like ...",
+                     "features":  [
+                                      "Direct High-Speed Download via ForgeCDN",
+                                      "Unique Custom Models \u0026 Morphing Abilities",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://media.forgecdn.net/attachments/1886/924/screenshot_2026-08-22-20-33-27-542_com-mojang.jpg?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "forge_morph_108886",
+                     "title":  "DG Morph Add-On",
+                     "subtitle":  "Minecraft Bedrock Addon",
+                     "category":  "morph",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  3.9,
+                     "downloads":  "150K",
+                     "author":  "DreiGamingYT",
+                     "thumbnailUrl":  "https://media.forgecdn.net/attachments/1912/132/1000169836-jpg.jpg?w=500\u0026q=80",
+                     "bannerUrl":  "https://media.forgecdn.net/attachments/1912/132/1000169836-jpg.jpg?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/dg-morph-add-on.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  true,
+                     "isNew":  true,
+                     "description":  "DG Morph Add-On Morph Mod for Minecraft Pocket/Bedrock Edition, You can Morph in any differents mobs in your world, also this mod pack tested and used in Minecraft 1.17 Update. . \n",
+                     "features":  [
+                                      "Direct High-Speed Download via ForgeCDN",
+                                      "Unique Custom Models \u0026 Morphing Abilities",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://media.forgecdn.net/attachments/1912/132/1000169836-jpg.jpg?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "forge_morph_168017",
+                     "title":  "The Ultimate Morph",
+                     "subtitle":  "Minecraft Bedrock Addon",
+                     "category":  "morph",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  4,
+                     "downloads":  "27K",
+                     "author":  "Youtube Dante Gaming",
+                     "thumbnailUrl":  "https://media.forgecdn.net/attachments/1928/643/verity-horror-png.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://media.forgecdn.net/attachments/1928/643/verity-horror-png.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/the-ultimate-morph.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  false,
+                     "isNew":  false,
+                     "description":  "Hello friends Ultimate Morph Addon is a Morph Addon For Minecraft Pocket Edition in this addon you can morph into the following:Block (Glass, Sapling, Etc) Furniture (Chair, Tab...",
+                     "features":  [
+                                      "Direct High-Speed Download via ForgeCDN",
+                                      "Unique Custom Models \u0026 Morphing Abilities",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://media.forgecdn.net/attachments/1928/643/verity-horror-png.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "forge_morph_147538",
+                     "title":  "Pokemon Morph Addon",
+                     "subtitle":  "Minecraft Bedrock Addon",
+                     "category":  "morph",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  4.7,
+                     "downloads":  "62K",
+                     "author":  "uToxic",
+                     "thumbnailUrl":  "https://media.forgecdn.net/attachments/1746/252/picsart_26-06-20_16-13-04-675-png.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://media.forgecdn.net/attachments/1746/252/picsart_26-06-20_16-13-04-675-png.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/pokemon-morph-addon.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  true,
+                     "isNew":  false,
+                     "description":  "Pokemon addon for minecraft bedrock that adds 4 pokemon that stays by your side to walk with you through the world of minecraft and has pokemon: Pikachu,Mew two, Charizard and C...",
+                     "features":  [
+                                      "Direct High-Speed Download via ForgeCDN",
+                                      "Unique Custom Models \u0026 Morphing Abilities",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://media.forgecdn.net/attachments/1746/252/picsart_26-06-20_16-13-04-675-png.png?w=500\u0026q=80"
+                                     ]
+                 },
+                 {
+                     "id":  "forge_morph_1744054",
+                     "title":  "Morph Into Dinosaurs: Primal Dominion",
+                     "subtitle":  "Minecraft Bedrock Addon",
+                     "category":  "morph",
+                     "mcpeVersion":  "1.20 - 1.21+",
+                     "fileSize":  "15 MB",
+                     "rating":  5,
+                     "downloads":  "937",
+                     "author":  "JunieClientDev",
+                     "thumbnailUrl":  "https://media.forgecdn.net/attachments/2063/350/screenshot-2026-10-16-110739-png.png?w=500\u0026q=80",
+                     "bannerUrl":  "https://media.forgecdn.net/attachments/2063/350/screenshot-2026-10-16-110739-png.png?w=500\u0026q=80",
+                     "downloadUrl":  "https://edge.forgecdn.net/files/6489/489/morph-into-dinosaurs-primal-dominion.mcaddon",
+                     "isFeatured":  false,
+                     "isTrending":  false,
+                     "isNew":  true,
+                     "description":  "50+ Dinosaurs to  face, to survive, to defeat, and  morph in to! ",
+                     "features":  [
+                                      "Direct High-Speed Download via ForgeCDN",
+                                      "Unique Custom Models \u0026 Morphing Abilities",
+                                      "Survival Friendly \u0026 Multiplayer Compatible",
+                                      "Instant Auto-Import directly into Minecraft PE"
+                                  ],
+                     "requirements":  [
+                                          "Minecraft PE / Bedrock Edition 1.20+",
+                                          "Enable Experimental Gameplay in World Settings"
+                                      ],
+                     "installationSteps":  [
+                                               "Tap \u0027Install to MCPE\u0027 to download the .mcaddon file",
+                                               "Select MCPE from the Open With dialog to import automatically",
+                                               "Activate Resource \u0026 Behavior packs in your World Settings"
+                                           ],
+                     "screenshots":  [
+                                         "https://media.forgecdn.net/attachments/2063/350/screenshot-2026-10-16-110739-png.png?w=500\u0026q=80"
                                      ]
                  }
              ]
