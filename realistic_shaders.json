@@ -1,0 +1,32 @@
+﻿{
+    "enable_promo_mode":  false,
+    "mods":  {
+
+             },
+    "force_update":  false,
+    "version":  1,
+    "appTitle":  "App",
+    "rating_url":  "https://www.amazon.com/gp/mas/dl/android?p=com.example.veritymod.mcpe",
+    "enable_rating_dialog":  false,
+    "update_url":  "https://www.amazon.com/gp/mas/dl/android?p=com.example.veritymod.mcpe",
+    "update_message":  "A new version of App is available.",
+    "categories":  [
+                       {
+                           "name":  "All Shaders",
+                           "id":  "all",
+                           "badge":  "ALL"
+                       },
+                       {
+                           "name":  "Realistic Shaders",
+                           "id":  "shaders",
+                           "badge":  "HOT"
+                       },
+                       {
+                           "name":  "RTX Textures",
+                           "id":  "rtx",
+                           "badge":  "4K"
+                       }
+                   ],
+    "update_title":  "Update Available!",
+    "updateNotice":  "Updated Realistic Shaders \u0026 RTX Textures for MCPE 1.20 - 1.21"
+}

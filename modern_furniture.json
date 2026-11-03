@@ -1,0 +1,32 @@
+﻿{
+    "enable_promo_mode":  false,
+    "mods":  {
+
+             },
+    "force_update":  false,
+    "version":  1,
+    "appTitle":  "App",
+    "rating_url":  "https://www.amazon.com/gp/mas/dl/android?p=com.example.veritymod.mcpe",
+    "enable_rating_dialog":  false,
+    "update_url":  "https://www.amazon.com/gp/mas/dl/android?p=com.example.veritymod.mcpe",
+    "update_message":  "A new version of App is available.",
+    "categories":  [
+                       {
+                           "name":  "All Items",
+                           "id":  "all",
+                           "badge":  "ALL"
+                       },
+                       {
+                           "name":  "Furniture Mods",
+                           "id":  "furniture",
+                           "badge":  "POPULAR"
+                       },
+                       {
+                           "name":  "Home Decor",
+                           "id":  "decor",
+                           "badge":  "NEW"
+                       }
+                   ],
+    "update_title":  "Update Available!",
+    "updateNotice":  "Updated Modern Furniture \u0026 Home Decor for MCPE 1.20 - 1.21"
+}
