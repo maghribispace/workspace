@@ -1,0 +1,109 @@
+{
+ "appTitle": "hello",
+  "appname": "app",
+  "updateNotice": "Updated for MCPE 1.20 - 1.21 Tricky Trials & Bedrock Edition",
+  "enable_rating_dialog": false,
+  "rating_url": "https://www.amazon.com/gp/mas/dl/android?p=com.example.veritymod.mcpe",
+  "force_update": false,
+  "update_title": "Update Available!",
+  "update_message": "A new version is available. Please update from Amazon Appstore.",
+  "update_url": "#",
+  "enable_promo_mode": true,
+  "promo_items": [
+    {
+      "title": "Special",
+      "image_url": "https://lh3.googleusercontent.com/6YCUHDk5MXJnlQqJTbKo0l1CwkwQmEZigr8DfjMjcAGzuGAfSnwsbid8LUSYUpwpB6C0T5ZgEnJ0Y9FTewQx12BQKD6kL5wDIfLF=h200-rw?w=800&q=80",
+      "redirect_url": ""
+    },
+    {
+      "title": "Exclusive ",
+      "image_url": "https://lh3.googleusercontent.com/YdzPRvj8Wm_-iQxUeQlD2sskhxyp1g7Q7Jf6S2U7uzmA6Nm57O0_mmM9PHuBWZZhC_yJorgRHfOdH0pCzDktudL9PqDjCoa1T4iFOw=h200-rw?w=800&q=80",
+      "redirect_url": ""
+    },
+    {
+      "title": "Special",
+      "image_url": "https://lh3.googleusercontent.com/bVtmnxGVwKFYNM_MjoHfskuZQTGZFnHrjYnQpMyE4OvWXXx-yyqCT4YQE1mfo05ZOjEkJEwwAZQWRL5L5sE4e70ecwNn_q47ib5TaA=h200-rw?w=800&q=80",
+      "redirect_url": ""
+    },
+    {
+      "title": "Exclusive",
+      "image_url": "https://lh3.googleusercontent.com/YihyPswMiVGwoKiHNBF5xplO8tByyguN3ZozMp0UP1T96ANYQ6CbB90H3gkiUnqB83zPp4NbyDZLbbjSnICqyM3mFSWr7e9eT3Qitg=h200-rw?w=800&q=80",
+      "redirect_url": ""
+    },
+    {
+      "title": "Special",
+      "image_url": "https://lh3.googleusercontent.com/cok2YjQgZLhVH_qAXbxPp1Y1dWAVgKgUoI6wWLllk9b3Q-iI7X5MCqWm5EtGDeqCIeFU_4FKBNhl3j4FYE27OhkfNYcYwTAln9U=h200-rw?w=800&q=80",
+      "redirect_url": ""
+    },
+    {
+      "title": "Exclusive Shaders & Texture Pack",
+      "image_url": "https://lh3.googleusercontent.com/nrhEPqyeA997dhWfi5dEH00AKdgNAj4pGR8U1dsXN4WQg2mmmjAtgJBc9n6hVR-LoioOC_tYDDvKw-6kb7s0sCVI6ICxHFm4hIc=h200-rw?w=800&q=80",
+      "redirect_url": ""
+    }
+  ],
+  "categories": [
+    {
+      "id": "all",
+      "name": "All Mods",
+      "badge": "Popular"
+    },
+    {
+      "id": "addons",
+      "name": "Addons & Mobs",
+      "badge": "New Mobs"
+    },
+    {
+      "id": "shaders",
+      "name": "Shaders & RTX",
+      "badge": "Visuals"
+    },
+    {
+      "id": "weapons",
+      "name": "Weapons & Magic",
+      "badge": "Combat"
+    },
+    {
+      "id": "furniture",
+      "name": "Furniture & Cars",
+      "badge": "Builds"
+    },
+    {
+      "id": "maps",
+      "name": "Maps & Skyblock",
+      "badge": "Worlds"
+    },
+    {
+      "id": "morph",
+      "name": "Morph & Skins",
+      "badge": "Transform"
+    }
+  ],
+  "mods": [
+    {
+      "id": "Verity_Addon",
+      "title": "Verity Addon",
+      "category": "addons",
+      "mcpeVersion": "1.20 - 1.21.30+",
+      "fileSize": "36 MB",
+      "rating": 4.9,
+      "downloads": "1.8M",
+      "author": "@ThatMob",
+      "thumbnailUrl": "https://media.forgecdn.net/attachments/1874/617/screenshot-2026-08-17-223637-png.png?w=600&q=80",
+      "bannerUrl": "https://media.forgecdn.net/attachments/1874/619/screenshot-2026-08-17-223826-png.png?w=1200&q=80",
+      "downloadUrl": "https://codeberg.org/elhadev/work/raw/branch/main/VerityMod/ThatMobs%20Verity%204.0.0%20by%20PnTMC%20%5BAdd-on%5D%20-%20V26.50.mcaddon",
+      "isFeatured": true,
+      "isTrending": true,
+      "isNew": false,
+      "description": "A little helper friend but don't ask him about the village in the east and don't leave him...",
+      "installationSteps": [
+        "Tap 'Install to MCPE' or 'Download .mcaddon'",
+        "Select MCPE from the Android Open With dialog",
+        "Wait for 'Import Started' and 'Import Successful' notifications in MCPE",
+        "Create or edit your Minecraft world, navigate to Resource Packs and Behavior Packs",
+        "Activate both 'Resource' and 'Behavior'",
+        "Enable Experimental Gameplay toggles and start your adventure!",
+        "You need to enable experiments (Beta APIs)."
+      ]
+    }
+  ]
+}
