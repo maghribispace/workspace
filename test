@@ -3,14 +3,14 @@
   "updateNotice": "Updated for MCPE 1.20 - 1.21 Tricky Trials & Bedrock Edition",
   "enable_rating_dialog": false,
   "rating_url": "https://www.amazon.com/gp/mas/dl/android?p=com.example.veritymod.mcpe",
-  "force_update": false,
+  "force_update": true,
   "update_title": "Update Available!",
   "update_message": "A new version is available. Please update from Amazon Appstore.",
   "update_url": "https://www.amazon.com/dp/B00992CF6W",
-  "enable_promo_mode": true,
+  "enable_promo_mode": false,
   "promo_items": [
     {
-      "title": "",
+      "title": "Special",
       "image_url": "https://lh3.googleusercontent.com/6YCUHDk5MXJnlQqJTbKo0l1CwkwQmEZigr8DfjMjcAGzuGAfSnwsbid8LUSYUpwpB6C0T5ZgEnJ0Y9FTewQx12BQKD6kL5wDIfLF=h200-rw?w=800&q=80",
       "redirect_url": ""
     },
