@@ -7,7 +7,7 @@
   "update_title": "Update Available!",
   "update_message": "A new version is available. Please update from Amazon Appstore.",
   "update_url": "https://www.amazon.com/dp/B00992CF6W",
-  "enable_promo_mode": false,
+  "enable_promo_mode": true,
   "promo_items": [
     {
       "title": "Special mcpe Addon 1",
