@@ -10,34 +10,34 @@
   "enable_promo_mode": true,
   "promo_items": [
     {
-      "title": "Special mcpe Addon 1",
+      "title": "Special ",
       "image_url": "https://lh3.googleusercontent.com/6YCUHDk5MXJnlQqJTbKo0l1CwkwQmEZigr8DfjMjcAGzuGAfSnwsbid8LUSYUpwpB6C0T5ZgEnJ0Y9FTewQx12BQKD6kL5wDIfLF=h200-rw?w=800&q=80",
-      "redirect_url": "#"
+      "redirect_url": ""
     },
     {
-      "title": "Exclusive Shaders & Texture Pack",
+      "title": "Exclusive ",
       "image_url": "https://lh3.googleusercontent.com/YdzPRvj8Wm_-iQxUeQlD2sskhxyp1g7Q7Jf6S2U7uzmA6Nm57O0_mmM9PHuBWZZhC_yJorgRHfOdH0pCzDktudL9PqDjCoa1T4iFOw=h200-rw?w=800&q=80",
-      "redirect_url": "#"
+      "redirect_url": ""
     },
     {
-      "title": "Special mcpe Addon  2",
+      "title": "Special",
       "image_url": "https://lh3.googleusercontent.com/bVtmnxGVwKFYNM_MjoHfskuZQTGZFnHrjYnQpMyE4OvWXXx-yyqCT4YQE1mfo05ZOjEkJEwwAZQWRL5L5sE4e70ecwNn_q47ib5TaA=h200-rw?w=800&q=80",
-      "redirect_url": "#"
+      "redirect_url": ""
     },
     {
-      "title": "Exclusive Shaders & Texture Pack",
+      "title": "Exclusive",
       "image_url": "https://lh3.googleusercontent.com/YihyPswMiVGwoKiHNBF5xplO8tByyguN3ZozMp0UP1T96ANYQ6CbB90H3gkiUnqB83zPp4NbyDZLbbjSnICqyM3mFSWr7e9eT3Qitg=h200-rw?w=800&q=80",
-      "redirect_url": "#"
+      "redirect_url": ""
     },
     {
-      "title": "Special mcpe Addon 3",
+      "title": "Special",
       "image_url": "https://lh3.googleusercontent.com/cok2YjQgZLhVH_qAXbxPp1Y1dWAVgKgUoI6wWLllk9b3Q-iI7X5MCqWm5EtGDeqCIeFU_4FKBNhl3j4FYE27OhkfNYcYwTAln9U=h200-rw?w=800&q=80",
       "redirect_url": ""
     },
     {
       "title": "Exclusive Shaders & Texture Pack",
       "image_url": "https://lh3.googleusercontent.com/nrhEPqyeA997dhWfi5dEH00AKdgNAj4pGR8U1dsXN4WQg2mmmjAtgJBc9n6hVR-LoioOC_tYDDvKw-6kb7s0sCVI6ICxHFm4hIc=h200-rw?w=800&q=80",
-      "redirect_url": "#"
+      "redirect_url": ""
     }
   ],
   "categories": [
@@ -102,181 +102,6 @@
         "Activate both 'Resource' and 'Behavior'",
         "Enable Experimental Gameplay toggles and start your adventure!",
         "You need to enable experiments (Beta APIs)."
-      ]
-    },
-    {
-      "id": "Lovity",
-      "title": "Falsity, Cruelity and Lovity",
-      "category": "addons",
-      "mcpeVersion": "26.0+",
-      "fileSize": "12.8 MB",
-      "rating": 4.9,
-      "downloads": "1.8M",
-      "author": "hischa9",
-      "thumbnailUrl": "https://media.forgecdn.net/attachments/description/1612795/description_89d5451b-802d-4068-b9cb-e20a3cdc5355.png?w=600&q=80",
-      "bannerUrl": "https://media.forgecdn.net/attachments/description/1612795/description_284dc92a-0bac-419a-9b49-889fd23eef79.png?w=1200&q=80",
-      "downloadUrl": "https://codeberg.org/elhadev/work/raw/branch/main/VerityMod/Verity%20Evolution%20V1.5.7.mcaddon",
-      "isFeatured": true,
-      "isTrending": true,
-      "isNew": false,
-      "description": "This addon is designed for Minecraft: Bedrock Edition. In this addon, I have recreated the characters Verity, Falsity, Cruelity, and Lovity. A total of 27 characters are included in this release.",
-      "installationSteps": [
-        "Tap 'Install to MCPE' or 'Download .mcaddon'",
-        "Select MCPE from the Android Open With dialog",
-        "Wait for 'Import Started' and 'Import Successful' notifications in MCPE",
-        "Create or edit your Minecraft world, navigate to Resource Packs and Behavior Packs",
-        "Activate both 'Resource' and 'Behavior'",
-        "Enable Experimental Gameplay toggles and start your adventure!"
-      ]
-    },
-    {
-      "id": "Verity_BE",
-      "title": "Verity BE (Official)",
-      "category": "addons",
-      "mcpeVersion": "1.20 - 1.21.30+",
-      "fileSize": "39.6 MB",
-      "rating": 4.7,
-      "downloads": "1.8M",
-      "author": "Utlover65",
-      "thumbnailUrl": "https://media.forgecdn.net/attachments/1905/684/64ecb16f-5acd-459e-b721-2175ae50deba-jpeg.jpeg?w=600&q=80",
-      "bannerUrl": "https://media.forgecdn.net/attachments/1905/683/34c14fed-de28-4ce6-be8f-709d3538d078-jpeg.jpeg?w=1200&q=80",
-      "downloadUrl": "https://codeberg.org/elhadev/work/raw/branch/main/VerityMod/Verity%20%284.23%29.mcaddon",
-      "isFeatured": true,
-      "isTrending": true,
-      "isNew": false,
-      "description": "Verity brings the mysterious entity from the viral Minecraft horror series into Minecraft Bedrock Edition.\r\n      The moment you enter your world, you'll meet a strange yellow companion known as Verity. At first, it seems helpful — offering guidance, conversation,\r\n      and assistance throughout your adventure.",
-      "installationSteps": [
-        "Tap 'Install to MCPE' or 'Download .mcaddon'",
-        "Select MCPE from the Android Open With dialog",
-        "Wait for 'Import Started' and 'Import Successful' notifications in MCPE",
-        "Create or edit your Minecraft world, navigate to Resource Packs and Behavior Packs",
-        "Activate both 'Resource' and 'Behavior'",
-        "Enable Experimental Gameplay toggles and start your adventure!"
-      ]
-    },
-    {
-      "id": "Scary_Friend_Berity",
-      "title": "Scary Friend Berity",
-      "category": "addons",
-      "mcpeVersion": "26.30",
-      "fileSize": "0.3 MB",
-      "rating": 4.9,
-      "downloads": "5.8M",
-      "author": "FleetMCStudio",
-      "thumbnailUrl": "https://media.forgecdn.net/attachments/1860/842/1000167433-jpg.jpg?w=600&q=80",
-      "bannerUrl": "https://media.forgecdn.net/attachments/1860/842/1000167433-jpg.jpg?w=1200&q=80",
-      "downloadUrl": "https://codeberg.org/elhadev/work/raw/branch/main/VerityMod/Scary_Friend_Berity_v1.2.mcaddon",
-      "isFeatured": true,
-      "isTrending": true,
-      "isNew": true,
-      "description": "Verity brings the mysterious entity from the viral Minecraft horror series into Minecraft Bedrock Edition.\r\n      The moment you enter your world, you'll meet a strange yellow companion known as Verity. At first, it seems helpful — offering guidance, conversation,\r\n      and assistance throughout your adventure.",
-      "installationSteps": [
-        "Tap 'Install to MCPE' or 'Download .mcaddon'",
-        "Select MCPE from the Android Open With dialog",
-        "Wait for 'Import Started' and 'Import Successful' notifications in MCPE",
-        "Create or edit your Minecraft world, navigate to Resource Packs and Behavior Packs",
-        "Activate both 'Resource' and 'Behavior'",
-        "Enable Experimental Gameplay toggles and start your adventure!"
-      ]
-    },
-    {
-      "id": "Morph_Into_Verity",
-      "title": "Morph Into Verity",
-      "category": "addons",
-      "mcpeVersion": "26.30",
-      "fileSize": "11 MB",
-      "rating": 4.8,
-      "downloads": "3.8M",
-      "author": "hischa9",
-      "thumbnailUrl": "https://media.forgecdn.net/attachments/1821/501/mcpedl-png.png?w=600&q=80",
-      "bannerUrl": "https://media.forgecdn.net/attachments/description/1622268/description_6adf9a3b-de73-4293-925a-b5b0030213f2.png?w=1200&q=80",
-      "downloadUrl": "https://codeberg.org/elhadev/work/raw/branch/main/VerityMod/Scary_Friend_Berity_v1.2.mcaddon",
-      "isFeatured": true,
-      "isTrending": true,
-      "isNew": true,
-      "description": "Transform into 35 characters from Verity, Falsity, Lovity, Cruelity and Verity Fusion.",
-      "installationSteps": [
-        "Tap 'Install to MCPE' or 'Download .mcaddon'",
-        "Select MCPE from the Android Open With dialog",
-        "Wait for 'Import Started' and 'Import Successful' notifications in MCPE",
-        "Create or edit your Minecraft world, navigate to Resource Packs and Behavior Packs",
-        "Activate both 'Resource' and 'Behavior'",
-        "Enable Experimental Gameplay toggles and start your adventure!"
-      ]
-    },
-    {
-      "id": "Burki_Verity",
-      "title": "Burki Verity - super optimized",
-      "category": "addons",
-      "mcpeVersion": "26.30",
-      "fileSize": "5.9 MB",
-      "rating": 4.9,
-      "downloads": "3.8M",
-      "author": "BurkiMC67",
-      "thumbnailUrl": "https://media.forgecdn.net/attachments/1886/924/screenshot_2026-08-22-20-33-27-542_com-mojang.jpg?w=600&q=80",
-      "bannerUrl": "https://media.forgecdn.net/attachments/1943/709/screenshot_2026-09-12-22-10-22-887_com-mojang.jpg?w=1200&q=80",
-      "downloadUrl": "https://codeberg.org/elhadev/work/raw/branch/main/VerityMod/Burki%26%2339%3Bs%20Verity%204.0.mcaddon",
-      "isFeatured": true,
-      "isTrending": true,
-      "isNew": true,
-      "description": "Burki Verity is back. Smarter, more interactive, and more mysterious than ever.Burki Verity is a Minecraft Bedrock Edition addon featuring an interactive character that can talk with the player, react to events, remember conversations, and change its behavior based on what happens around it.🧠 Dynamic AI & Memory Talk to Verity and ask it questions.Verity can remember previous conversations and use them when responding later. What you say can affect future interactions and Verity's reactions..",
-      "installationSteps": [
-        "Tap 'Install to MCPE' or 'Download .mcaddon'",
-        "Select MCPE from the Android Open With dialog",
-        "Wait for 'Import Started' and 'Import Successful' notifications in MCPE",
-        "Create or edit your Minecraft world, navigate to Resource Packs and Behavior Packs",
-        "Activate both 'Resource' and 'Behavior'",
-        "Enable Experimental Gameplay toggles and start your adventure!"
-      ]
-    },
-    {
-      "id": "Verxity",
-      "title": "Verxity",
-      "category": "addons",
-      "mcpeVersion": "26.30",
-      "fileSize": "33 MB",
-      "rating": 4.8,
-      "downloads": "5.8M",
-      "author": "jhonyRC",
-      "thumbnailUrl": "https://media.forgecdn.net/attachments/1912/132/1000169836-jpg.jpg?w=600&q=80",
-      "bannerUrl": "https://media.forgecdn.net/attachments/1912/132/1000169836-jpg.jpg?w=1200&q=80",
-      "downloadUrl": "https://codeberg.org/elhadev/work/raw/branch/main/VerityMod/Vexity_JRC_English.mcaddon",
-      "isFeatured": true,
-      "isTrending": true,
-      "isNew": true,
-      "description": "Verxity is a mysterious and intelligent horror companion for Minecraft Bedrock Edition. He can interact with players, answer questions, follow commands, explore the world, and help with survival tasks. Verxity is not just a normal companion—his behavior can become strange, unpredictable, and terrifying.Verxity can follow you, mine blocks, mine 3×3 areas, chop down trees within a large radius, collect resources, fight hostile mobs, use diamond tools, and assist you while exploring. You can give him different commands and ask him questions, allowing him to react to what is happening around him.But be careful… verxity has a darker side. During your adventures, mysterious events, creepy interactions, unexpected behavior, and terrifying moments can occur. The more you explore, the more mysterious Morbosity can become.Explore abandoned places, survive dangerous nights, gather resources, build your base, and discover what Morbosity is capable of. You never know what he might do next.Verxity — your companion, your helper… and perhaps something much more disturbing.",
-      "installationSteps": [
-        "Tap 'Install to MCPE' or 'Download .mcaddon'",
-        "Select MCPE from the Android Open With dialog",
-        "Wait for 'Import Started' and 'Import Successful' notifications in MCPE",
-        "Create or edit your Minecraft world, navigate to Resource Packs and Behavior Packs",
-        "Activate both 'Resource' and 'Behavior'",
-        "Enable Experimental Gameplay toggles and start your adventure!"
-      ]
-    },
-    {
-      "id": "Verity_Horor_3D",
-      "title": "Verity Horor 3D",
-      "category": "addons",
-      "mcpeVersion": "26.30",
-      "fileSize": "23.3 MB",
-      "rating": 4.6,
-      "downloads": "3.4M",
-      "author": "Blackeagle",
-      "thumbnailUrl": "https://media.forgecdn.net/attachments/1928/643/verity-horror-png.png?w=600&q=80",
-      "bannerUrl": "https://media.forgecdn.net/attachments/description/null/description_9ab28ee2-7ffa-4768-9794-75c585ac31a0.png?w=1200&q=80",
-      "downloadUrl": "https://codeberg.org/elhadev/work/raw/branch/main/VerityMod/Verity_3D.mcaddon",
-      "isFeatured": true,
-      "isTrending": true,
-      "isNew": true,
-      "description": "Enter a disturbing Minecraft horror experience with Verity, where creepy creatures, strange characters, and unsettling environments turn every moment into something unpredictable.This addon is designed to create a darker atmosphere around your world, with mysterious entities and horror-inspired encounters that make exploration feel much more tense.",
-      "installationSteps": [
-        "Tap 'Install to MCPE' or 'Download .mcaddon'",
-        "Select MCPE from the Android Open With dialog",
-        "Wait for 'Import Started' and 'Import Successful' notifications in MCPE",
-        "Create or edit your Minecraft world, navigate to Resource Packs and Behavior Packs",
-        "Activate both 'Resource' and 'Behavior'",
-        "Enable Experimental Gameplay toggles and star adventure!"
       ]
     }
   ]
